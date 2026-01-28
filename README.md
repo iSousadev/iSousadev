@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Rodolfo, tenho 29 anos e sou natural de São Paulo. Sempre fui apaixonado por tecnologia e, por isso, decidi transformar esse interesse em profissão. Atualmente, estou cursando Sistemas da Informação no CEST, onde venho desenvolvendo habilidades em programação, lógica computacional e desenvolvimento de sistemas. Estou constantemente em busca de aprendizado e novas experiências na área da tecnologia. Meu objetivo é aplicar na prática os conhecimentos adquiridos durante a graduação e contribuir com soluções inovadoras no universo digital.
+Me chamo Rodolfo, tenho 30 anos e sou natural de São Paulo. Sempre fui apaixonado por tecnologia e, por isso, decidi transformar esse interesse em profissão. Atualmente, estou cursando Sistemas da Informação no CEST, onde venho desenvolvendo habilidades em programação, lógica computacional e desenvolvimento de sistemas. Estou constantemente em busca de aprendizado e novas experiências na área da tecnologia. Meu objetivo é aplicar na prática os conhecimentos adquiridos durante a graduação e contribuir com soluções inovadoras no universo digital.
 
 ---
 
