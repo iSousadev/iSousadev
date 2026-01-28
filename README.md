@@ -1,8 +1,12 @@
 # 👩🏻‍💻 Rodolfo Sousa
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack Júnior`**
 
-Me chamo Rodolfo, tenho 30 anos e sou natural de São Paulo. Sempre fui apaixonado por tecnologia e, por isso, decidi transformar esse interesse em profissão. Atualmente, estou cursando Sistemas da Informação no CEST, onde venho desenvolvendo habilidades em programação, lógica computacional e desenvolvimento de sistemas. Estou constantemente em busca de aprendizado e novas experiências na área da tecnologia. Meu objetivo é aplicar na prática os conhecimentos adquiridos durante a graduação e contribuir com soluções inovadoras no universo digital.
+Me chamo Rodolfo Sousa da Macena, tenho 30 anos, sou natural de São Paulo e atualmente moro em São Luís (MA). Estou cursando Sistemas de Informação (5º período) e venho construindo minha base como Desenvolvedor Full Stack Júnior, com foco em HTML, CSS, JavaScript/TypeScript e React, além de integrar frontend e backend com consumo de APIs e uso de banco de dados. 
+Na prática, atuo como bolsista no PROINTER/PROINT (CEST), contribuindo no desenvolvimento e manutenção de sistemas internos, principalmente no backend, usando ScriptCase e PHP. Entre as entregas, participei da criação e integração de um módulo de banco de questões, com automações que aumentaram a eficiência e a organização do processo. 
+Também faço parte da Liga Acadêmica L.U.M.I.N.A., na diretoria de Marketing e Comunicação, o que fortaleceu minha comunicação, trabalho em equipe e senso de responsabilidade com entregas. 
+Meu objetivo é seguir evoluindo tecnicamente, mas sempre com mentalidade prática: aprender rápido, resolver problemas reais e entregar soluções bem feitas, organizadas e fáceis de manter.
+
 
 ---
 
