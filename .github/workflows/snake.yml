@@ -1,14 +1,18 @@
-name: Generate Snake
+name: Custom Contribution Snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
-
   workflow_dispatch:
+
+  schedule:
+    - cron: "0 3 * * *"
 
   push:
     branches:
       - main
+
+    paths:
+      - "scripts/generate-snake.mjs"
+      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
@@ -16,25 +20,58 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
 
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Node
+        uses: actions/setup-node@v5
         with:
-          github_user_name: iSousadev
+          node-version: 24
+          package-manager-cache: false
 
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%2300F5D4&color_dots=%23EBEDF0,%239BE9D8,%234FD1B5,%2300BFA6,%23008776
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300F5D4&color_dots=%23161B22,%230D6255,%23009983,%2300C9A7,%2300F5D4
-
-      - name: Push snake animation
-        uses: crazy-max/ghaction-github-pages@v5
-
-        with:
-          target_branch: output
-          build_dir: dist
-
+      - name: Generate custom snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: iSousadev
+        run: node scripts/generate-snake.mjs
+
+      - name: Publish SVG
+        run: |
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          mkdir -p /tmp/snake-output
+
+          cp dist/github-contribution-snake-custom.svg /tmp/snake-output/
+
+          git fetch origin output:output || true
+
+          if git show-ref --verify --quiet refs/heads/output; then
+
+            git switch output
+
+          else
+
+            git switch --orphan output
+            git rm -rf . || true
+
+          fi
+
+          cp /tmp/snake-output/github-contribution-snake-custom.svg .
+
+          git add github-contribution-snake-custom.svg
+
+          if git diff --cached --quiet; then
+
+            echo "Snake já está atualizada."
+            exit 0
+
+          fi
+
+          git commit -m "chore: update custom contribution snake"
+
+          git push origin output --force
