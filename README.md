@@ -105,16 +105,13 @@ Me chamo Rodolfo Sousa da Macena, sou estudante de Sistemas de Informação (5º
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/iSousadev/iSousadev/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/iSousadev/iSousadev/output/github-contribution-grid-snake.svg"
-  />
-  <img
+<img
+  src="https://raw.githubusercontent.com/iSousadev/iSousadev/output/github-contribution-snake-custom.svg"
+  alt="Snake comendo minhas contribuições do GitHub"
+  width="100%"
+/>
+
+</div>
     alt="GitHub contribution snake animation"
     src="https://raw.githubusercontent.com/iSousadev/iSousadev/output/github-contribution-grid-snake.svg"
   />
