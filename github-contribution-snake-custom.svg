@@ -1,0 +1,7395 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="794"
+  height="174"
+  viewBox="0 0 794 174"
+>
+
+<style>
+
+  .level-0 {
+    fill: #EBEDF0;
+  }
+
+  .level-1 {
+    fill: #0E4429;
+  }
+
+  .level-2 {
+    fill: #006D32;
+  }
+
+  .level-3 {
+    fill: #26A641;
+  }
+
+  .level-4 {
+    fill: #39D353;
+  }
+
+  .label {
+    font-family:
+      -apple-system,
+      BlinkMacSystemFont,
+      "Segoe UI",
+      sans-serif;
+
+    font-size: 11px;
+
+    fill: #57606A;
+  }
+
+  @media (prefers-color-scheme: dark) {
+
+    .level-0 {
+      fill: #161B22;
+    }
+
+    .label {
+      fill: #8B949E;
+    }
+
+  }
+
+</style>
+
+<!-- CONTADOR -->
+
+<text
+  x="28"
+  y="18"
+  class="label"
+>
+  122 contribuições no último ano
+</text>
+
+<!-- QUADRADOS -->
+
+<g id="contributions">
+
+
+      <g>
+        <title>
+          2025-08-10: 0 contribuições
+        </title>
+
+        <rect
+          x="28"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-11: 0 contribuições
+        </title>
+
+        <rect
+          x="28"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-12: 0 contribuições
+        </title>
+
+        <rect
+          x="28"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-13: 0 contribuições
+        </title>
+
+        <rect
+          x="28"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-14: 0 contribuições
+        </title>
+
+        <rect
+          x="28"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-15: 0 contribuições
+        </title>
+
+        <rect
+          x="28"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-16: 0 contribuições
+        </title>
+
+        <rect
+          x="28"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-17: 0 contribuições
+        </title>
+
+        <rect
+          x="42"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-18: 0 contribuições
+        </title>
+
+        <rect
+          x="42"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-19: 0 contribuições
+        </title>
+
+        <rect
+          x="42"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-20: 0 contribuições
+        </title>
+
+        <rect
+          x="42"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-21: 0 contribuições
+        </title>
+
+        <rect
+          x="42"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-22: 0 contribuições
+        </title>
+
+        <rect
+          x="42"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-23: 0 contribuições
+        </title>
+
+        <rect
+          x="42"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-24: 0 contribuições
+        </title>
+
+        <rect
+          x="56"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-25: 0 contribuições
+        </title>
+
+        <rect
+          x="56"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-26: 0 contribuições
+        </title>
+
+        <rect
+          x="56"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-27: 0 contribuições
+        </title>
+
+        <rect
+          x="56"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-28: 0 contribuições
+        </title>
+
+        <rect
+          x="56"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-29: 0 contribuições
+        </title>
+
+        <rect
+          x="56"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-30: 0 contribuições
+        </title>
+
+        <rect
+          x="56"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-08-31: 0 contribuições
+        </title>
+
+        <rect
+          x="70"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-01: 0 contribuições
+        </title>
+
+        <rect
+          x="70"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-02: 0 contribuições
+        </title>
+
+        <rect
+          x="70"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-03: 0 contribuições
+        </title>
+
+        <rect
+          x="70"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-04: 0 contribuições
+        </title>
+
+        <rect
+          x="70"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-05: 0 contribuições
+        </title>
+
+        <rect
+          x="70"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-06: 0 contribuições
+        </title>
+
+        <rect
+          x="70"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-07: 0 contribuições
+        </title>
+
+        <rect
+          x="84"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-08: 0 contribuições
+        </title>
+
+        <rect
+          x="84"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-09: 0 contribuições
+        </title>
+
+        <rect
+          x="84"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-10: 0 contribuições
+        </title>
+
+        <rect
+          x="84"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-11: 0 contribuições
+        </title>
+
+        <rect
+          x="84"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-12: 0 contribuições
+        </title>
+
+        <rect
+          x="84"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-13: 0 contribuições
+        </title>
+
+        <rect
+          x="84"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-14: 0 contribuições
+        </title>
+
+        <rect
+          x="98"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-15: 0 contribuições
+        </title>
+
+        <rect
+          x="98"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-16: 0 contribuições
+        </title>
+
+        <rect
+          x="98"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-17: 0 contribuições
+        </title>
+
+        <rect
+          x="98"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-18: 0 contribuições
+        </title>
+
+        <rect
+          x="98"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-19: 0 contribuições
+        </title>
+
+        <rect
+          x="98"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-20: 0 contribuições
+        </title>
+
+        <rect
+          x="98"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-21: 0 contribuições
+        </title>
+
+        <rect
+          x="112"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-22: 0 contribuições
+        </title>
+
+        <rect
+          x="112"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-23: 0 contribuições
+        </title>
+
+        <rect
+          x="112"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-24: 0 contribuições
+        </title>
+
+        <rect
+          x="112"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-25: 0 contribuições
+        </title>
+
+        <rect
+          x="112"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-26: 0 contribuições
+        </title>
+
+        <rect
+          x="112"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-27: 0 contribuições
+        </title>
+
+        <rect
+          x="112"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-28: 0 contribuições
+        </title>
+
+        <rect
+          x="126"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-29: 0 contribuições
+        </title>
+
+        <rect
+          x="126"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-09-30: 0 contribuições
+        </title>
+
+        <rect
+          x="126"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-01: 0 contribuições
+        </title>
+
+        <rect
+          x="126"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-02: 0 contribuições
+        </title>
+
+        <rect
+          x="126"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-03: 0 contribuições
+        </title>
+
+        <rect
+          x="126"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-04: 0 contribuições
+        </title>
+
+        <rect
+          x="126"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-05: 0 contribuições
+        </title>
+
+        <rect
+          x="140"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-06: 0 contribuições
+        </title>
+
+        <rect
+          x="140"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-07: 0 contribuições
+        </title>
+
+        <rect
+          x="140"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-08: 0 contribuições
+        </title>
+
+        <rect
+          x="140"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-09: 0 contribuições
+        </title>
+
+        <rect
+          x="140"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-10: 0 contribuições
+        </title>
+
+        <rect
+          x="140"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-11: 0 contribuições
+        </title>
+
+        <rect
+          x="140"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-12: 0 contribuições
+        </title>
+
+        <rect
+          x="154"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-13: 0 contribuições
+        </title>
+
+        <rect
+          x="154"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-14: 0 contribuições
+        </title>
+
+        <rect
+          x="154"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-15: 0 contribuições
+        </title>
+
+        <rect
+          x="154"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-16: 0 contribuições
+        </title>
+
+        <rect
+          x="154"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-17: 0 contribuições
+        </title>
+
+        <rect
+          x="154"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-18: 0 contribuições
+        </title>
+
+        <rect
+          x="154"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-19: 0 contribuições
+        </title>
+
+        <rect
+          x="168"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-20: 0 contribuições
+        </title>
+
+        <rect
+          x="168"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-21: 0 contribuições
+        </title>
+
+        <rect
+          x="168"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-22: 0 contribuições
+        </title>
+
+        <rect
+          x="168"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-23: 0 contribuições
+        </title>
+
+        <rect
+          x="168"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-24: 0 contribuições
+        </title>
+
+        <rect
+          x="168"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-25: 0 contribuições
+        </title>
+
+        <rect
+          x="168"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-26: 0 contribuições
+        </title>
+
+        <rect
+          x="182"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-27: 0 contribuições
+        </title>
+
+        <rect
+          x="182"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-28: 0 contribuições
+        </title>
+
+        <rect
+          x="182"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-29: 0 contribuições
+        </title>
+
+        <rect
+          x="182"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-30: 0 contribuições
+        </title>
+
+        <rect
+          x="182"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-10-31: 0 contribuições
+        </title>
+
+        <rect
+          x="182"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-01: 0 contribuições
+        </title>
+
+        <rect
+          x="182"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-02: 0 contribuições
+        </title>
+
+        <rect
+          x="196"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-03: 0 contribuições
+        </title>
+
+        <rect
+          x="196"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-04: 0 contribuições
+        </title>
+
+        <rect
+          x="196"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-05: 0 contribuições
+        </title>
+
+        <rect
+          x="196"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-06: 0 contribuições
+        </title>
+
+        <rect
+          x="196"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-07: 0 contribuições
+        </title>
+
+        <rect
+          x="196"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-08: 0 contribuições
+        </title>
+
+        <rect
+          x="196"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-09: 0 contribuições
+        </title>
+
+        <rect
+          x="210"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-10: 0 contribuições
+        </title>
+
+        <rect
+          x="210"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-11: 0 contribuições
+        </title>
+
+        <rect
+          x="210"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-12: 6 contribuições
+        </title>
+
+        <rect
+          x="210"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-4"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.53514;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-13: 0 contribuições
+        </title>
+
+        <rect
+          x="210"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-14: 7 contribuições
+        </title>
+
+        <rect
+          x="210"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-4"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.82162;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-15: 0 contribuições
+        </title>
+
+        <rect
+          x="210"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-16: 0 contribuições
+        </title>
+
+        <rect
+          x="224"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-17: 0 contribuições
+        </title>
+
+        <rect
+          x="224"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-18: 0 contribuições
+        </title>
+
+        <rect
+          x="224"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-19: 0 contribuições
+        </title>
+
+        <rect
+          x="224"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-20: 0 contribuições
+        </title>
+
+        <rect
+          x="224"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-21: 0 contribuições
+        </title>
+
+        <rect
+          x="224"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-22: 0 contribuições
+        </title>
+
+        <rect
+          x="224"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-23: 0 contribuições
+        </title>
+
+        <rect
+          x="238"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-24: 0 contribuições
+        </title>
+
+        <rect
+          x="238"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-25: 0 contribuições
+        </title>
+
+        <rect
+          x="238"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-26: 0 contribuições
+        </title>
+
+        <rect
+          x="238"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-27: 0 contribuições
+        </title>
+
+        <rect
+          x="238"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-28: 0 contribuições
+        </title>
+
+        <rect
+          x="238"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-29: 0 contribuições
+        </title>
+
+        <rect
+          x="238"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-11-30: 0 contribuições
+        </title>
+
+        <rect
+          x="252"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-01: 0 contribuições
+        </title>
+
+        <rect
+          x="252"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-02: 0 contribuições
+        </title>
+
+        <rect
+          x="252"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-03: 0 contribuições
+        </title>
+
+        <rect
+          x="252"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-04: 0 contribuições
+        </title>
+
+        <rect
+          x="252"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-05: 0 contribuições
+        </title>
+
+        <rect
+          x="252"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-06: 0 contribuições
+        </title>
+
+        <rect
+          x="252"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-07: 0 contribuições
+        </title>
+
+        <rect
+          x="266"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-08: 0 contribuições
+        </title>
+
+        <rect
+          x="266"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-09: 0 contribuições
+        </title>
+
+        <rect
+          x="266"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-10: 0 contribuições
+        </title>
+
+        <rect
+          x="266"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-11: 0 contribuições
+        </title>
+
+        <rect
+          x="266"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-12: 0 contribuições
+        </title>
+
+        <rect
+          x="266"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-13: 0 contribuições
+        </title>
+
+        <rect
+          x="266"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-14: 0 contribuições
+        </title>
+
+        <rect
+          x="280"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-15: 0 contribuições
+        </title>
+
+        <rect
+          x="280"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-16: 0 contribuições
+        </title>
+
+        <rect
+          x="280"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-17: 0 contribuições
+        </title>
+
+        <rect
+          x="280"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-18: 0 contribuições
+        </title>
+
+        <rect
+          x="280"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-19: 0 contribuições
+        </title>
+
+        <rect
+          x="280"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-20: 2 contribuições
+        </title>
+
+        <rect
+          x="280"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-2"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.90811;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-21: 5 contribuições
+        </title>
+
+        <rect
+          x="294"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-3"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.05135;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-22: 1 contribuições
+        </title>
+
+        <rect
+          x="294"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-1"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.23243;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-23: 0 contribuições
+        </title>
+
+        <rect
+          x="294"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-24: 4 contribuições
+        </title>
+
+        <rect
+          x="294"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-3"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.51892;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-25: 0 contribuições
+        </title>
+
+        <rect
+          x="294"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-26: 12 contribuições
+        </title>
+
+        <rect
+          x="294"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-4"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.80541;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-27: 0 contribuições
+        </title>
+
+        <rect
+          x="294"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-28: 0 contribuições
+        </title>
+
+        <rect
+          x="308"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-29: 2 contribuições
+        </title>
+
+        <rect
+          x="308"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-2"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.22973;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-30: 0 contribuições
+        </title>
+
+        <rect
+          x="308"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2025-12-31: 4 contribuições
+        </title>
+
+        <rect
+          x="308"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-3"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.51622;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-01: 0 contribuições
+        </title>
+
+        <rect
+          x="308"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-02: 4 contribuições
+        </title>
+
+        <rect
+          x="308"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-3"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.80270;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-03: 1 contribuições
+        </title>
+
+        <rect
+          x="308"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-1"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.91351;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-04: 0 contribuições
+        </title>
+
+        <rect
+          x="322"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-05: 0 contribuições
+        </title>
+
+        <rect
+          x="322"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-06: 0 contribuições
+        </title>
+
+        <rect
+          x="322"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-07: 0 contribuições
+        </title>
+
+        <rect
+          x="322"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-08: 0 contribuições
+        </title>
+
+        <rect
+          x="322"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-09: 0 contribuições
+        </title>
+
+        <rect
+          x="322"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-10: 0 contribuições
+        </title>
+
+        <rect
+          x="322"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-11: 0 contribuições
+        </title>
+
+        <rect
+          x="336"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-12: 0 contribuições
+        </title>
+
+        <rect
+          x="336"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-13: 0 contribuições
+        </title>
+
+        <rect
+          x="336"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-14: 0 contribuições
+        </title>
+
+        <rect
+          x="336"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-15: 0 contribuições
+        </title>
+
+        <rect
+          x="336"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-16: 0 contribuições
+        </title>
+
+        <rect
+          x="336"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-17: 0 contribuições
+        </title>
+
+        <rect
+          x="336"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-18: 0 contribuições
+        </title>
+
+        <rect
+          x="350"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-19: 0 contribuições
+        </title>
+
+        <rect
+          x="350"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-20: 0 contribuições
+        </title>
+
+        <rect
+          x="350"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-21: 0 contribuições
+        </title>
+
+        <rect
+          x="350"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-22: 0 contribuições
+        </title>
+
+        <rect
+          x="350"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-23: 0 contribuições
+        </title>
+
+        <rect
+          x="350"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-24: 0 contribuições
+        </title>
+
+        <rect
+          x="350"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-25: 0 contribuições
+        </title>
+
+        <rect
+          x="364"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-26: 0 contribuições
+        </title>
+
+        <rect
+          x="364"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-27: 0 contribuições
+        </title>
+
+        <rect
+          x="364"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-28: 3 contribuições
+        </title>
+
+        <rect
+          x="364"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-3"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.50541;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-29: 0 contribuições
+        </title>
+
+        <rect
+          x="364"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-30: 0 contribuições
+        </title>
+
+        <rect
+          x="364"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-01-31: 0 contribuições
+        </title>
+
+        <rect
+          x="364"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-01: 0 contribuições
+        </title>
+
+        <rect
+          x="378"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-02: 0 contribuições
+        </title>
+
+        <rect
+          x="378"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-03: 0 contribuições
+        </title>
+
+        <rect
+          x="378"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-04: 2 contribuições
+        </title>
+
+        <rect
+          x="378"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-2"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.50270;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-05: 11 contribuições
+        </title>
+
+        <rect
+          x="378"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-4"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.64054;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-06: 0 contribuições
+        </title>
+
+        <rect
+          x="378"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-07: 1 contribuições
+        </title>
+
+        <rect
+          x="378"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-1"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.92703;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-08: 0 contribuições
+        </title>
+
+        <rect
+          x="392"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-09: 0 contribuições
+        </title>
+
+        <rect
+          x="392"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-10: 0 contribuições
+        </title>
+
+        <rect
+          x="392"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-11: 7 contribuições
+        </title>
+
+        <rect
+          x="392"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-4"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.50000;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-12: 0 contribuições
+        </title>
+
+        <rect
+          x="392"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-13: 0 contribuições
+        </title>
+
+        <rect
+          x="392"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-14: 0 contribuições
+        </title>
+
+        <rect
+          x="392"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-15: 0 contribuições
+        </title>
+
+        <rect
+          x="406"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-16: 0 contribuições
+        </title>
+
+        <rect
+          x="406"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-17: 0 contribuições
+        </title>
+
+        <rect
+          x="406"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-18: 0 contribuições
+        </title>
+
+        <rect
+          x="406"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-19: 2 contribuições
+        </title>
+
+        <rect
+          x="406"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-2"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.64595;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-20: 1 contribuições
+        </title>
+
+        <rect
+          x="406"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-1"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.78378;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-21: 0 contribuições
+        </title>
+
+        <rect
+          x="406"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-22: 9 contribuições
+        </title>
+
+        <rect
+          x="420"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-4"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.07568;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-23: 0 contribuições
+        </title>
+
+        <rect
+          x="420"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-24: 0 contribuições
+        </title>
+
+        <rect
+          x="420"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-25: 0 contribuições
+        </title>
+
+        <rect
+          x="420"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-26: 0 contribuições
+        </title>
+
+        <rect
+          x="420"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-27: 6 contribuições
+        </title>
+
+        <rect
+          x="420"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-4"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.78108;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-02-28: 1 contribuições
+        </title>
+
+        <rect
+          x="420"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-1"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.93514;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-01: 0 contribuições
+        </title>
+
+        <rect
+          x="434"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-02: 0 contribuições
+        </title>
+
+        <rect
+          x="434"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-03: 0 contribuições
+        </title>
+
+        <rect
+          x="434"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-04: 0 contribuições
+        </title>
+
+        <rect
+          x="434"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-05: 2 contribuições
+        </title>
+
+        <rect
+          x="434"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-2"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.65135;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-06: 0 contribuições
+        </title>
+
+        <rect
+          x="434"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-07: 0 contribuições
+        </title>
+
+        <rect
+          x="434"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-08: 0 contribuições
+        </title>
+
+        <rect
+          x="448"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-09: 0 contribuições
+        </title>
+
+        <rect
+          x="448"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-10: 0 contribuições
+        </title>
+
+        <rect
+          x="448"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-11: 0 contribuições
+        </title>
+
+        <rect
+          x="448"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-12: 0 contribuições
+        </title>
+
+        <rect
+          x="448"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-13: 0 contribuições
+        </title>
+
+        <rect
+          x="448"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-14: 0 contribuições
+        </title>
+
+        <rect
+          x="448"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-15: 0 contribuições
+        </title>
+
+        <rect
+          x="462"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-16: 2 contribuições
+        </title>
+
+        <rect
+          x="462"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-2"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.20000;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-17: 0 contribuições
+        </title>
+
+        <rect
+          x="462"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-18: 0 contribuições
+        </title>
+
+        <rect
+          x="462"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-19: 0 contribuições
+        </title>
+
+        <rect
+          x="462"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-20: 15 contribuições
+        </title>
+
+        <rect
+          x="462"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-4"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.77297;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-21: 0 contribuições
+        </title>
+
+        <rect
+          x="462"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-22: 0 contribuições
+        </title>
+
+        <rect
+          x="476"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-23: 0 contribuições
+        </title>
+
+        <rect
+          x="476"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-24: 2 contribuições
+        </title>
+
+        <rect
+          x="476"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-2"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.37297;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-25: 0 contribuições
+        </title>
+
+        <rect
+          x="476"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-26: 0 contribuições
+        </title>
+
+        <rect
+          x="476"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-27: 5 contribuições
+        </title>
+
+        <rect
+          x="476"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-3"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.77027;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-28: 1 contribuições
+        </title>
+
+        <rect
+          x="476"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-1"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.94595;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-29: 1 contribuições
+        </title>
+
+        <rect
+          x="490"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-1"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.08919;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-30: 0 contribuições
+        </title>
+
+        <rect
+          x="490"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-03-31: 0 contribuições
+        </title>
+
+        <rect
+          x="490"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-01: 0 contribuições
+        </title>
+
+        <rect
+          x="490"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-02: 0 contribuições
+        </title>
+
+        <rect
+          x="490"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-03: 0 contribuições
+        </title>
+
+        <rect
+          x="490"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-04: 0 contribuições
+        </title>
+
+        <rect
+          x="490"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-05: 0 contribuições
+        </title>
+
+        <rect
+          x="504"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-06: 0 contribuições
+        </title>
+
+        <rect
+          x="504"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-07: 0 contribuições
+        </title>
+
+        <rect
+          x="504"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-08: 0 contribuições
+        </title>
+
+        <rect
+          x="504"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-09: 0 contribuições
+        </title>
+
+        <rect
+          x="504"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-10: 0 contribuições
+        </title>
+
+        <rect
+          x="504"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-11: 0 contribuições
+        </title>
+
+        <rect
+          x="504"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-12: 0 contribuições
+        </title>
+
+        <rect
+          x="518"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-13: 0 contribuições
+        </title>
+
+        <rect
+          x="518"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-14: 0 contribuições
+        </title>
+
+        <rect
+          x="518"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-15: 0 contribuições
+        </title>
+
+        <rect
+          x="518"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-16: 0 contribuições
+        </title>
+
+        <rect
+          x="518"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-17: 0 contribuições
+        </title>
+
+        <rect
+          x="518"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-18: 0 contribuições
+        </title>
+
+        <rect
+          x="518"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-19: 0 contribuições
+        </title>
+
+        <rect
+          x="532"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-20: 1 contribuições
+        </title>
+
+        <rect
+          x="532"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-1"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.18649;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-21: 0 contribuições
+        </title>
+
+        <rect
+          x="532"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-22: 0 contribuições
+        </title>
+
+        <rect
+          x="532"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-23: 0 contribuições
+        </title>
+
+        <rect
+          x="532"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-24: 0 contribuições
+        </title>
+
+        <rect
+          x="532"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-25: 0 contribuições
+        </title>
+
+        <rect
+          x="532"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-26: 0 contribuições
+        </title>
+
+        <rect
+          x="546"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-27: 0 contribuições
+        </title>
+
+        <rect
+          x="546"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-28: 0 contribuições
+        </title>
+
+        <rect
+          x="546"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-29: 0 contribuições
+        </title>
+
+        <rect
+          x="546"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-04-30: 0 contribuições
+        </title>
+
+        <rect
+          x="546"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-01: 0 contribuições
+        </title>
+
+        <rect
+          x="546"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-02: 0 contribuições
+        </title>
+
+        <rect
+          x="546"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-03: 0 contribuições
+        </title>
+
+        <rect
+          x="560"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-04: 0 contribuições
+        </title>
+
+        <rect
+          x="560"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-05: 0 contribuições
+        </title>
+
+        <rect
+          x="560"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-06: 0 contribuições
+        </title>
+
+        <rect
+          x="560"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-07: 0 contribuições
+        </title>
+
+        <rect
+          x="560"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-08: 0 contribuições
+        </title>
+
+        <rect
+          x="560"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-09: 0 contribuições
+        </title>
+
+        <rect
+          x="560"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-10: 0 contribuições
+        </title>
+
+        <rect
+          x="574"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-11: 0 contribuições
+        </title>
+
+        <rect
+          x="574"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-12: 0 contribuições
+        </title>
+
+        <rect
+          x="574"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-13: 0 contribuições
+        </title>
+
+        <rect
+          x="574"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-14: 0 contribuições
+        </title>
+
+        <rect
+          x="574"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-15: 0 contribuições
+        </title>
+
+        <rect
+          x="574"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-16: 0 contribuições
+        </title>
+
+        <rect
+          x="574"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-17: 0 contribuições
+        </title>
+
+        <rect
+          x="588"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-18: 0 contribuições
+        </title>
+
+        <rect
+          x="588"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-19: 0 contribuições
+        </title>
+
+        <rect
+          x="588"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-20: 0 contribuições
+        </title>
+
+        <rect
+          x="588"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-21: 0 contribuições
+        </title>
+
+        <rect
+          x="588"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-22: 0 contribuições
+        </title>
+
+        <rect
+          x="588"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-23: 0 contribuições
+        </title>
+
+        <rect
+          x="588"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-24: 0 contribuições
+        </title>
+
+        <rect
+          x="602"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-25: 0 contribuições
+        </title>
+
+        <rect
+          x="602"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-26: 0 contribuições
+        </title>
+
+        <rect
+          x="602"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-27: 0 contribuições
+        </title>
+
+        <rect
+          x="602"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-28: 0 contribuições
+        </title>
+
+        <rect
+          x="602"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-29: 0 contribuições
+        </title>
+
+        <rect
+          x="602"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-30: 0 contribuições
+        </title>
+
+        <rect
+          x="602"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-05-31: 0 contribuições
+        </title>
+
+        <rect
+          x="616"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-01: 0 contribuições
+        </title>
+
+        <rect
+          x="616"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-02: 0 contribuições
+        </title>
+
+        <rect
+          x="616"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-03: 0 contribuições
+        </title>
+
+        <rect
+          x="616"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-04: 0 contribuições
+        </title>
+
+        <rect
+          x="616"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-05: 0 contribuições
+        </title>
+
+        <rect
+          x="616"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-06: 0 contribuições
+        </title>
+
+        <rect
+          x="616"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-07: 0 contribuições
+        </title>
+
+        <rect
+          x="630"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-08: 0 contribuições
+        </title>
+
+        <rect
+          x="630"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-09: 0 contribuições
+        </title>
+
+        <rect
+          x="630"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-10: 0 contribuições
+        </title>
+
+        <rect
+          x="630"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-11: 0 contribuições
+        </title>
+
+        <rect
+          x="630"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-12: 0 contribuições
+        </title>
+
+        <rect
+          x="630"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-13: 0 contribuições
+        </title>
+
+        <rect
+          x="630"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-14: 0 contribuições
+        </title>
+
+        <rect
+          x="644"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-15: 0 contribuições
+        </title>
+
+        <rect
+          x="644"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-16: 0 contribuições
+        </title>
+
+        <rect
+          x="644"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-17: 0 contribuições
+        </title>
+
+        <rect
+          x="644"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-18: 0 contribuições
+        </title>
+
+        <rect
+          x="644"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-19: 0 contribuições
+        </title>
+
+        <rect
+          x="644"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-20: 0 contribuições
+        </title>
+
+        <rect
+          x="644"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-21: 0 contribuições
+        </title>
+
+        <rect
+          x="658"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-22: 0 contribuições
+        </title>
+
+        <rect
+          x="658"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-23: 0 contribuições
+        </title>
+
+        <rect
+          x="658"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-24: 0 contribuições
+        </title>
+
+        <rect
+          x="658"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-25: 0 contribuições
+        </title>
+
+        <rect
+          x="658"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-26: 0 contribuições
+        </title>
+
+        <rect
+          x="658"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-27: 0 contribuições
+        </title>
+
+        <rect
+          x="658"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-28: 0 contribuições
+        </title>
+
+        <rect
+          x="672"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-29: 0 contribuições
+        </title>
+
+        <rect
+          x="672"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-06-30: 0 contribuições
+        </title>
+
+        <rect
+          x="672"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-01: 0 contribuições
+        </title>
+
+        <rect
+          x="672"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-02: 0 contribuições
+        </title>
+
+        <rect
+          x="672"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-03: 0 contribuições
+        </title>
+
+        <rect
+          x="672"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-04: 0 contribuições
+        </title>
+
+        <rect
+          x="672"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-05: 0 contribuições
+        </title>
+
+        <rect
+          x="686"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-06: 0 contribuições
+        </title>
+
+        <rect
+          x="686"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-07: 0 contribuições
+        </title>
+
+        <rect
+          x="686"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-08: 0 contribuições
+        </title>
+
+        <rect
+          x="686"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-09: 0 contribuições
+        </title>
+
+        <rect
+          x="686"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-10: 0 contribuições
+        </title>
+
+        <rect
+          x="686"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-11: 0 contribuições
+        </title>
+
+        <rect
+          x="686"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-12: 0 contribuições
+        </title>
+
+        <rect
+          x="700"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-13: 0 contribuições
+        </title>
+
+        <rect
+          x="700"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-14: 0 contribuições
+        </title>
+
+        <rect
+          x="700"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-15: 0 contribuições
+        </title>
+
+        <rect
+          x="700"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-16: 0 contribuições
+        </title>
+
+        <rect
+          x="700"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-17: 0 contribuições
+        </title>
+
+        <rect
+          x="700"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-18: 0 contribuições
+        </title>
+
+        <rect
+          x="700"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-19: 0 contribuições
+        </title>
+
+        <rect
+          x="714"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-20: 0 contribuições
+        </title>
+
+        <rect
+          x="714"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-21: 0 contribuições
+        </title>
+
+        <rect
+          x="714"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-22: 0 contribuições
+        </title>
+
+        <rect
+          x="714"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-23: 0 contribuições
+        </title>
+
+        <rect
+          x="714"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-24: 0 contribuições
+        </title>
+
+        <rect
+          x="714"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-25: 0 contribuições
+        </title>
+
+        <rect
+          x="714"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-26: 0 contribuições
+        </title>
+
+        <rect
+          x="728"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-27: 0 contribuições
+        </title>
+
+        <rect
+          x="728"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-28: 0 contribuições
+        </title>
+
+        <rect
+          x="728"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-29: 0 contribuições
+        </title>
+
+        <rect
+          x="728"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-30: 0 contribuições
+        </title>
+
+        <rect
+          x="728"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-07-31: 0 contribuições
+        </title>
+
+        <rect
+          x="728"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-08-01: 0 contribuições
+        </title>
+
+        <rect
+          x="728"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-08-02: 0 contribuições
+        </title>
+
+        <rect
+          x="742"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-08-03: 0 contribuições
+        </title>
+
+        <rect
+          x="742"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-08-04: 0 contribuições
+        </title>
+
+        <rect
+          x="742"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-08-05: 0 contribuições
+        </title>
+
+        <rect
+          x="742"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-08-06: 0 contribuições
+        </title>
+
+        <rect
+          x="742"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-08-07: 0 contribuições
+        </title>
+
+        <rect
+          x="742"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-08-08: 0 contribuições
+        </title>
+
+        <rect
+          x="742"
+          y="126"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-08-09: 0 contribuições
+        </title>
+
+        <rect
+          x="756"
+          y="42"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-08-10: 0 contribuições
+        </title>
+
+        <rect
+          x="756"
+          y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-08-11: 0 contribuições
+        </title>
+
+        <rect
+          x="756"
+          y="70"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-08-12: 0 contribuições
+        </title>
+
+        <rect
+          x="756"
+          y="84"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-08-13: 0 contribuições
+        </title>
+
+        <rect
+          x="756"
+          y="98"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-08-14: 2 contribuições
+        </title>
+
+        <rect
+          x="756"
+          y="112"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-2"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.71622;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+</g>
+
+<!-- TRAJETO INVISÍVEL -->
+
+<path
+  id="snake-track"
+  d="M 33 47 L 47 47 L 61 47 L 75 47 L 89 47 L 103 47 L 117 47 L 131 47 L 145 47 L 159 47 L 173 47 L 187 47 L 201 47 L 215 47 L 229 47 L 243 47 L 257 47 L 271 47 L 285 47 L 299 47 L 313 47 L 327 47 L 341 47 L 355 47 L 369 47 L 383 47 L 397 47 L 411 47 L 425 47 L 439 47 L 453 47 L 467 47 L 481 47 L 495 47 L 509 47 L 523 47 L 537 47 L 551 47 L 565 47 L 579 47 L 593 47 L 607 47 L 621 47 L 635 47 L 649 47 L 663 47 L 677 47 L 691 47 L 705 47 L 719 47 L 733 47 L 747 47 L 761 47 L 761 61 L 747 61 L 733 61 L 719 61 L 705 61 L 691 61 L 677 61 L 663 61 L 649 61 L 635 61 L 621 61 L 607 61 L 593 61 L 579 61 L 565 61 L 551 61 L 537 61 L 523 61 L 509 61 L 495 61 L 481 61 L 467 61 L 453 61 L 439 61 L 425 61 L 411 61 L 397 61 L 383 61 L 369 61 L 355 61 L 341 61 L 327 61 L 313 61 L 299 61 L 285 61 L 271 61 L 257 61 L 243 61 L 229 61 L 215 61 L 201 61 L 187 61 L 173 61 L 159 61 L 145 61 L 131 61 L 117 61 L 103 61 L 89 61 L 75 61 L 61 61 L 47 61 L 33 61 L 33 75 L 47 75 L 61 75 L 75 75 L 89 75 L 103 75 L 117 75 L 131 75 L 145 75 L 159 75 L 173 75 L 187 75 L 201 75 L 215 75 L 229 75 L 243 75 L 257 75 L 271 75 L 285 75 L 299 75 L 313 75 L 327 75 L 341 75 L 355 75 L 369 75 L 383 75 L 397 75 L 411 75 L 425 75 L 439 75 L 453 75 L 467 75 L 481 75 L 495 75 L 509 75 L 523 75 L 537 75 L 551 75 L 565 75 L 579 75 L 593 75 L 607 75 L 621 75 L 635 75 L 649 75 L 663 75 L 677 75 L 691 75 L 705 75 L 719 75 L 733 75 L 747 75 L 761 75 L 761 89 L 747 89 L 733 89 L 719 89 L 705 89 L 691 89 L 677 89 L 663 89 L 649 89 L 635 89 L 621 89 L 607 89 L 593 89 L 579 89 L 565 89 L 551 89 L 537 89 L 523 89 L 509 89 L 495 89 L 481 89 L 467 89 L 453 89 L 439 89 L 425 89 L 411 89 L 397 89 L 383 89 L 369 89 L 355 89 L 341 89 L 327 89 L 313 89 L 299 89 L 285 89 L 271 89 L 257 89 L 243 89 L 229 89 L 215 89 L 201 89 L 187 89 L 173 89 L 159 89 L 145 89 L 131 89 L 117 89 L 103 89 L 89 89 L 75 89 L 61 89 L 47 89 L 33 89 L 33 103 L 47 103 L 61 103 L 75 103 L 89 103 L 103 103 L 117 103 L 131 103 L 145 103 L 159 103 L 173 103 L 187 103 L 201 103 L 215 103 L 229 103 L 243 103 L 257 103 L 271 103 L 285 103 L 299 103 L 313 103 L 327 103 L 341 103 L 355 103 L 369 103 L 383 103 L 397 103 L 411 103 L 425 103 L 439 103 L 453 103 L 467 103 L 481 103 L 495 103 L 509 103 L 523 103 L 537 103 L 551 103 L 565 103 L 579 103 L 593 103 L 607 103 L 621 103 L 635 103 L 649 103 L 663 103 L 677 103 L 691 103 L 705 103 L 719 103 L 733 103 L 747 103 L 761 103 L 761 117 L 747 117 L 733 117 L 719 117 L 705 117 L 691 117 L 677 117 L 663 117 L 649 117 L 635 117 L 621 117 L 607 117 L 593 117 L 579 117 L 565 117 L 551 117 L 537 117 L 523 117 L 509 117 L 495 117 L 481 117 L 467 117 L 453 117 L 439 117 L 425 117 L 411 117 L 397 117 L 383 117 L 369 117 L 355 117 L 341 117 L 327 117 L 313 117 L 299 117 L 285 117 L 271 117 L 257 117 L 243 117 L 229 117 L 215 117 L 201 117 L 187 117 L 173 117 L 159 117 L 145 117 L 131 117 L 117 117 L 103 117 L 89 117 L 75 117 L 61 117 L 47 117 L 33 117 L 33 131 L 47 131 L 61 131 L 75 131 L 89 131 L 103 131 L 117 131 L 131 131 L 145 131 L 159 131 L 173 131 L 187 131 L 201 131 L 215 131 L 229 131 L 243 131 L 257 131 L 271 131 L 285 131 L 299 131 L 313 131 L 327 131 L 341 131 L 355 131 L 369 131 L 383 131 L 397 131 L 411 131 L 425 131 L 439 131 L 453 131 L 467 131 L 481 131 L 495 131 L 509 131 L 523 131 L 537 131 L 551 131 L 565 131 L 579 131 L 593 131 L 607 131 L 621 131 L 635 131 L 649 131 L 663 131 L 677 131 L 691 131 L 705 131 L 719 131 L 733 131 L 747 131 L 761 131"
+  fill="none"
+  stroke="transparent"
+/>
+
+<!-- CORPO -->
+
+<g id="snake-body">
+
+
+      <circle
+        cx="0"
+        cy="0"
+        r="5.80"
+        fill="#2EE6A6"
+        opacity="1.00"
+      >
+        <animateMotion
+          dur="22s"
+          begin="-1.400s"
+          repeatCount="indefinite"
+          rotate="auto"
+          path="M 33 47 L 47 47 L 61 47 L 75 47 L 89 47 L 103 47 L 117 47 L 131 47 L 145 47 L 159 47 L 173 47 L 187 47 L 201 47 L 215 47 L 229 47 L 243 47 L 257 47 L 271 47 L 285 47 L 299 47 L 313 47 L 327 47 L 341 47 L 355 47 L 369 47 L 383 47 L 397 47 L 411 47 L 425 47 L 439 47 L 453 47 L 467 47 L 481 47 L 495 47 L 509 47 L 523 47 L 537 47 L 551 47 L 565 47 L 579 47 L 593 47 L 607 47 L 621 47 L 635 47 L 649 47 L 663 47 L 677 47 L 691 47 L 705 47 L 719 47 L 733 47 L 747 47 L 761 47 L 761 61 L 747 61 L 733 61 L 719 61 L 705 61 L 691 61 L 677 61 L 663 61 L 649 61 L 635 61 L 621 61 L 607 61 L 593 61 L 579 61 L 565 61 L 551 61 L 537 61 L 523 61 L 509 61 L 495 61 L 481 61 L 467 61 L 453 61 L 439 61 L 425 61 L 411 61 L 397 61 L 383 61 L 369 61 L 355 61 L 341 61 L 327 61 L 313 61 L 299 61 L 285 61 L 271 61 L 257 61 L 243 61 L 229 61 L 215 61 L 201 61 L 187 61 L 173 61 L 159 61 L 145 61 L 131 61 L 117 61 L 103 61 L 89 61 L 75 61 L 61 61 L 47 61 L 33 61 L 33 75 L 47 75 L 61 75 L 75 75 L 89 75 L 103 75 L 117 75 L 131 75 L 145 75 L 159 75 L 173 75 L 187 75 L 201 75 L 215 75 L 229 75 L 243 75 L 257 75 L 271 75 L 285 75 L 299 75 L 313 75 L 327 75 L 341 75 L 355 75 L 369 75 L 383 75 L 397 75 L 411 75 L 425 75 L 439 75 L 453 75 L 467 75 L 481 75 L 495 75 L 509 75 L 523 75 L 537 75 L 551 75 L 565 75 L 579 75 L 593 75 L 607 75 L 621 75 L 635 75 L 649 75 L 663 75 L 677 75 L 691 75 L 705 75 L 719 75 L 733 75 L 747 75 L 761 75 L 761 89 L 747 89 L 733 89 L 719 89 L 705 89 L 691 89 L 677 89 L 663 89 L 649 89 L 635 89 L 621 89 L 607 89 L 593 89 L 579 89 L 565 89 L 551 89 L 537 89 L 523 89 L 509 89 L 495 89 L 481 89 L 467 89 L 453 89 L 439 89 L 425 89 L 411 89 L 397 89 L 383 89 L 369 89 L 355 89 L 341 89 L 327 89 L 313 89 L 299 89 L 285 89 L 271 89 L 257 89 L 243 89 L 229 89 L 215 89 L 201 89 L 187 89 L 173 89 L 159 89 L 145 89 L 131 89 L 117 89 L 103 89 L 89 89 L 75 89 L 61 89 L 47 89 L 33 89 L 33 103 L 47 103 L 61 103 L 75 103 L 89 103 L 103 103 L 117 103 L 131 103 L 145 103 L 159 103 L 173 103 L 187 103 L 201 103 L 215 103 L 229 103 L 243 103 L 257 103 L 271 103 L 285 103 L 299 103 L 313 103 L 327 103 L 341 103 L 355 103 L 369 103 L 383 103 L 397 103 L 411 103 L 425 103 L 439 103 L 453 103 L 467 103 L 481 103 L 495 103 L 509 103 L 523 103 L 537 103 L 551 103 L 565 103 L 579 103 L 593 103 L 607 103 L 621 103 L 635 103 L 649 103 L 663 103 L 677 103 L 691 103 L 705 103 L 719 103 L 733 103 L 747 103 L 761 103 L 761 117 L 747 117 L 733 117 L 719 117 L 705 117 L 691 117 L 677 117 L 663 117 L 649 117 L 635 117 L 621 117 L 607 117 L 593 117 L 579 117 L 565 117 L 551 117 L 537 117 L 523 117 L 509 117 L 495 117 L 481 117 L 467 117 L 453 117 L 439 117 L 425 117 L 411 117 L 397 117 L 383 117 L 369 117 L 355 117 L 341 117 L 327 117 L 313 117 L 299 117 L 285 117 L 271 117 L 257 117 L 243 117 L 229 117 L 215 117 L 201 117 L 187 117 L 173 117 L 159 117 L 145 117 L 131 117 L 117 117 L 103 117 L 89 117 L 75 117 L 61 117 L 47 117 L 33 117 L 33 131 L 47 131 L 61 131 L 75 131 L 89 131 L 103 131 L 117 131 L 131 131 L 145 131 L 159 131 L 173 131 L 187 131 L 201 131 L 215 131 L 229 131 L 243 131 L 257 131 L 271 131 L 285 131 L 299 131 L 313 131 L 327 131 L 341 131 L 355 131 L 369 131 L 383 131 L 397 131 L 411 131 L 425 131 L 439 131 L 453 131 L 467 131 L 481 131 L 495 131 L 509 131 L 523 131 L 537 131 L 551 131 L 565 131 L 579 131 L 593 131 L 607 131 L 621 131 L 635 131 L 649 131 L 663 131 L 677 131 L 691 131 L 705 131 L 719 131 L 733 131 L 747 131 L 761 131"
+        />
+      </circle>
+    
+
+      <circle
+        cx="0"
+        cy="0"
+        r="5.62"
+        fill="#2EE6A6"
+        opacity="0.96"
+      >
+        <animateMotion
+          dur="22s"
+          begin="-1.295s"
+          repeatCount="indefinite"
+          rotate="auto"
+          path="M 33 47 L 47 47 L 61 47 L 75 47 L 89 47 L 103 47 L 117 47 L 131 47 L 145 47 L 159 47 L 173 47 L 187 47 L 201 47 L 215 47 L 229 47 L 243 47 L 257 47 L 271 47 L 285 47 L 299 47 L 313 47 L 327 47 L 341 47 L 355 47 L 369 47 L 383 47 L 397 47 L 411 47 L 425 47 L 439 47 L 453 47 L 467 47 L 481 47 L 495 47 L 509 47 L 523 47 L 537 47 L 551 47 L 565 47 L 579 47 L 593 47 L 607 47 L 621 47 L 635 47 L 649 47 L 663 47 L 677 47 L 691 47 L 705 47 L 719 47 L 733 47 L 747 47 L 761 47 L 761 61 L 747 61 L 733 61 L 719 61 L 705 61 L 691 61 L 677 61 L 663 61 L 649 61 L 635 61 L 621 61 L 607 61 L 593 61 L 579 61 L 565 61 L 551 61 L 537 61 L 523 61 L 509 61 L 495 61 L 481 61 L 467 61 L 453 61 L 439 61 L 425 61 L 411 61 L 397 61 L 383 61 L 369 61 L 355 61 L 341 61 L 327 61 L 313 61 L 299 61 L 285 61 L 271 61 L 257 61 L 243 61 L 229 61 L 215 61 L 201 61 L 187 61 L 173 61 L 159 61 L 145 61 L 131 61 L 117 61 L 103 61 L 89 61 L 75 61 L 61 61 L 47 61 L 33 61 L 33 75 L 47 75 L 61 75 L 75 75 L 89 75 L 103 75 L 117 75 L 131 75 L 145 75 L 159 75 L 173 75 L 187 75 L 201 75 L 215 75 L 229 75 L 243 75 L 257 75 L 271 75 L 285 75 L 299 75 L 313 75 L 327 75 L 341 75 L 355 75 L 369 75 L 383 75 L 397 75 L 411 75 L 425 75 L 439 75 L 453 75 L 467 75 L 481 75 L 495 75 L 509 75 L 523 75 L 537 75 L 551 75 L 565 75 L 579 75 L 593 75 L 607 75 L 621 75 L 635 75 L 649 75 L 663 75 L 677 75 L 691 75 L 705 75 L 719 75 L 733 75 L 747 75 L 761 75 L 761 89 L 747 89 L 733 89 L 719 89 L 705 89 L 691 89 L 677 89 L 663 89 L 649 89 L 635 89 L 621 89 L 607 89 L 593 89 L 579 89 L 565 89 L 551 89 L 537 89 L 523 89 L 509 89 L 495 89 L 481 89 L 467 89 L 453 89 L 439 89 L 425 89 L 411 89 L 397 89 L 383 89 L 369 89 L 355 89 L 341 89 L 327 89 L 313 89 L 299 89 L 285 89 L 271 89 L 257 89 L 243 89 L 229 89 L 215 89 L 201 89 L 187 89 L 173 89 L 159 89 L 145 89 L 131 89 L 117 89 L 103 89 L 89 89 L 75 89 L 61 89 L 47 89 L 33 89 L 33 103 L 47 103 L 61 103 L 75 103 L 89 103 L 103 103 L 117 103 L 131 103 L 145 103 L 159 103 L 173 103 L 187 103 L 201 103 L 215 103 L 229 103 L 243 103 L 257 103 L 271 103 L 285 103 L 299 103 L 313 103 L 327 103 L 341 103 L 355 103 L 369 103 L 383 103 L 397 103 L 411 103 L 425 103 L 439 103 L 453 103 L 467 103 L 481 103 L 495 103 L 509 103 L 523 103 L 537 103 L 551 103 L 565 103 L 579 103 L 593 103 L 607 103 L 621 103 L 635 103 L 649 103 L 663 103 L 677 103 L 691 103 L 705 103 L 719 103 L 733 103 L 747 103 L 761 103 L 761 117 L 747 117 L 733 117 L 719 117 L 705 117 L 691 117 L 677 117 L 663 117 L 649 117 L 635 117 L 621 117 L 607 117 L 593 117 L 579 117 L 565 117 L 551 117 L 537 117 L 523 117 L 509 117 L 495 117 L 481 117 L 467 117 L 453 117 L 439 117 L 425 117 L 411 117 L 397 117 L 383 117 L 369 117 L 355 117 L 341 117 L 327 117 L 313 117 L 299 117 L 285 117 L 271 117 L 257 117 L 243 117 L 229 117 L 215 117 L 201 117 L 187 117 L 173 117 L 159 117 L 145 117 L 131 117 L 117 117 L 103 117 L 89 117 L 75 117 L 61 117 L 47 117 L 33 117 L 33 131 L 47 131 L 61 131 L 75 131 L 89 131 L 103 131 L 117 131 L 131 131 L 145 131 L 159 131 L 173 131 L 187 131 L 201 131 L 215 131 L 229 131 L 243 131 L 257 131 L 271 131 L 285 131 L 299 131 L 313 131 L 327 131 L 341 131 L 355 131 L 369 131 L 383 131 L 397 131 L 411 131 L 425 131 L 439 131 L 453 131 L 467 131 L 481 131 L 495 131 L 509 131 L 523 131 L 537 131 L 551 131 L 565 131 L 579 131 L 593 131 L 607 131 L 621 131 L 635 131 L 649 131 L 663 131 L 677 131 L 691 131 L 705 131 L 719 131 L 733 131 L 747 131 L 761 131"
+        />
+      </circle>
+    
+
+      <circle
+        cx="0"
+        cy="0"
+        r="5.43"
+        fill="#2EE6A6"
+        opacity="0.93"
+      >
+        <animateMotion
+          dur="22s"
+          begin="-1.190s"
+          repeatCount="indefinite"
+          rotate="auto"
+          path="M 33 47 L 47 47 L 61 47 L 75 47 L 89 47 L 103 47 L 117 47 L 131 47 L 145 47 L 159 47 L 173 47 L 187 47 L 201 47 L 215 47 L 229 47 L 243 47 L 257 47 L 271 47 L 285 47 L 299 47 L 313 47 L 327 47 L 341 47 L 355 47 L 369 47 L 383 47 L 397 47 L 411 47 L 425 47 L 439 47 L 453 47 L 467 47 L 481 47 L 495 47 L 509 47 L 523 47 L 537 47 L 551 47 L 565 47 L 579 47 L 593 47 L 607 47 L 621 47 L 635 47 L 649 47 L 663 47 L 677 47 L 691 47 L 705 47 L 719 47 L 733 47 L 747 47 L 761 47 L 761 61 L 747 61 L 733 61 L 719 61 L 705 61 L 691 61 L 677 61 L 663 61 L 649 61 L 635 61 L 621 61 L 607 61 L 593 61 L 579 61 L 565 61 L 551 61 L 537 61 L 523 61 L 509 61 L 495 61 L 481 61 L 467 61 L 453 61 L 439 61 L 425 61 L 411 61 L 397 61 L 383 61 L 369 61 L 355 61 L 341 61 L 327 61 L 313 61 L 299 61 L 285 61 L 271 61 L 257 61 L 243 61 L 229 61 L 215 61 L 201 61 L 187 61 L 173 61 L 159 61 L 145 61 L 131 61 L 117 61 L 103 61 L 89 61 L 75 61 L 61 61 L 47 61 L 33 61 L 33 75 L 47 75 L 61 75 L 75 75 L 89 75 L 103 75 L 117 75 L 131 75 L 145 75 L 159 75 L 173 75 L 187 75 L 201 75 L 215 75 L 229 75 L 243 75 L 257 75 L 271 75 L 285 75 L 299 75 L 313 75 L 327 75 L 341 75 L 355 75 L 369 75 L 383 75 L 397 75 L 411 75 L 425 75 L 439 75 L 453 75 L 467 75 L 481 75 L 495 75 L 509 75 L 523 75 L 537 75 L 551 75 L 565 75 L 579 75 L 593 75 L 607 75 L 621 75 L 635 75 L 649 75 L 663 75 L 677 75 L 691 75 L 705 75 L 719 75 L 733 75 L 747 75 L 761 75 L 761 89 L 747 89 L 733 89 L 719 89 L 705 89 L 691 89 L 677 89 L 663 89 L 649 89 L 635 89 L 621 89 L 607 89 L 593 89 L 579 89 L 565 89 L 551 89 L 537 89 L 523 89 L 509 89 L 495 89 L 481 89 L 467 89 L 453 89 L 439 89 L 425 89 L 411 89 L 397 89 L 383 89 L 369 89 L 355 89 L 341 89 L 327 89 L 313 89 L 299 89 L 285 89 L 271 89 L 257 89 L 243 89 L 229 89 L 215 89 L 201 89 L 187 89 L 173 89 L 159 89 L 145 89 L 131 89 L 117 89 L 103 89 L 89 89 L 75 89 L 61 89 L 47 89 L 33 89 L 33 103 L 47 103 L 61 103 L 75 103 L 89 103 L 103 103 L 117 103 L 131 103 L 145 103 L 159 103 L 173 103 L 187 103 L 201 103 L 215 103 L 229 103 L 243 103 L 257 103 L 271 103 L 285 103 L 299 103 L 313 103 L 327 103 L 341 103 L 355 103 L 369 103 L 383 103 L 397 103 L 411 103 L 425 103 L 439 103 L 453 103 L 467 103 L 481 103 L 495 103 L 509 103 L 523 103 L 537 103 L 551 103 L 565 103 L 579 103 L 593 103 L 607 103 L 621 103 L 635 103 L 649 103 L 663 103 L 677 103 L 691 103 L 705 103 L 719 103 L 733 103 L 747 103 L 761 103 L 761 117 L 747 117 L 733 117 L 719 117 L 705 117 L 691 117 L 677 117 L 663 117 L 649 117 L 635 117 L 621 117 L 607 117 L 593 117 L 579 117 L 565 117 L 551 117 L 537 117 L 523 117 L 509 117 L 495 117 L 481 117 L 467 117 L 453 117 L 439 117 L 425 117 L 411 117 L 397 117 L 383 117 L 369 117 L 355 117 L 341 117 L 327 117 L 313 117 L 299 117 L 285 117 L 271 117 L 257 117 L 243 117 L 229 117 L 215 117 L 201 117 L 187 117 L 173 117 L 159 117 L 145 117 L 131 117 L 117 117 L 103 117 L 89 117 L 75 117 L 61 117 L 47 117 L 33 117 L 33 131 L 47 131 L 61 131 L 75 131 L 89 131 L 103 131 L 117 131 L 131 131 L 145 131 L 159 131 L 173 131 L 187 131 L 201 131 L 215 131 L 229 131 L 243 131 L 257 131 L 271 131 L 285 131 L 299 131 L 313 131 L 327 131 L 341 131 L 355 131 L 369 131 L 383 131 L 397 131 L 411 131 L 425 131 L 439 131 L 453 131 L 467 131 L 481 131 L 495 131 L 509 131 L 523 131 L 537 131 L 551 131 L 565 131 L 579 131 L 593 131 L 607 131 L 621 131 L 635 131 L 649 131 L 663 131 L 677 131 L 691 131 L 705 131 L 719 131 L 733 131 L 747 131 L 761 131"
+        />
+      </circle>
+    
+
+      <circle
+        cx="0"
+        cy="0"
+        r="5.25"
+        fill="#2EE6A6"
+        opacity="0.89"
+      >
+        <animateMotion
+          dur="22s"
+          begin="-1.085s"
+          repeatCount="indefinite"
+          rotate="auto"
+          path="M 33 47 L 47 47 L 61 47 L 75 47 L 89 47 L 103 47 L 117 47 L 131 47 L 145 47 L 159 47 L 173 47 L 187 47 L 201 47 L 215 47 L 229 47 L 243 47 L 257 47 L 271 47 L 285 47 L 299 47 L 313 47 L 327 47 L 341 47 L 355 47 L 369 47 L 383 47 L 397 47 L 411 47 L 425 47 L 439 47 L 453 47 L 467 47 L 481 47 L 495 47 L 509 47 L 523 47 L 537 47 L 551 47 L 565 47 L 579 47 L 593 47 L 607 47 L 621 47 L 635 47 L 649 47 L 663 47 L 677 47 L 691 47 L 705 47 L 719 47 L 733 47 L 747 47 L 761 47 L 761 61 L 747 61 L 733 61 L 719 61 L 705 61 L 691 61 L 677 61 L 663 61 L 649 61 L 635 61 L 621 61 L 607 61 L 593 61 L 579 61 L 565 61 L 551 61 L 537 61 L 523 61 L 509 61 L 495 61 L 481 61 L 467 61 L 453 61 L 439 61 L 425 61 L 411 61 L 397 61 L 383 61 L 369 61 L 355 61 L 341 61 L 327 61 L 313 61 L 299 61 L 285 61 L 271 61 L 257 61 L 243 61 L 229 61 L 215 61 L 201 61 L 187 61 L 173 61 L 159 61 L 145 61 L 131 61 L 117 61 L 103 61 L 89 61 L 75 61 L 61 61 L 47 61 L 33 61 L 33 75 L 47 75 L 61 75 L 75 75 L 89 75 L 103 75 L 117 75 L 131 75 L 145 75 L 159 75 L 173 75 L 187 75 L 201 75 L 215 75 L 229 75 L 243 75 L 257 75 L 271 75 L 285 75 L 299 75 L 313 75 L 327 75 L 341 75 L 355 75 L 369 75 L 383 75 L 397 75 L 411 75 L 425 75 L 439 75 L 453 75 L 467 75 L 481 75 L 495 75 L 509 75 L 523 75 L 537 75 L 551 75 L 565 75 L 579 75 L 593 75 L 607 75 L 621 75 L 635 75 L 649 75 L 663 75 L 677 75 L 691 75 L 705 75 L 719 75 L 733 75 L 747 75 L 761 75 L 761 89 L 747 89 L 733 89 L 719 89 L 705 89 L 691 89 L 677 89 L 663 89 L 649 89 L 635 89 L 621 89 L 607 89 L 593 89 L 579 89 L 565 89 L 551 89 L 537 89 L 523 89 L 509 89 L 495 89 L 481 89 L 467 89 L 453 89 L 439 89 L 425 89 L 411 89 L 397 89 L 383 89 L 369 89 L 355 89 L 341 89 L 327 89 L 313 89 L 299 89 L 285 89 L 271 89 L 257 89 L 243 89 L 229 89 L 215 89 L 201 89 L 187 89 L 173 89 L 159 89 L 145 89 L 131 89 L 117 89 L 103 89 L 89 89 L 75 89 L 61 89 L 47 89 L 33 89 L 33 103 L 47 103 L 61 103 L 75 103 L 89 103 L 103 103 L 117 103 L 131 103 L 145 103 L 159 103 L 173 103 L 187 103 L 201 103 L 215 103 L 229 103 L 243 103 L 257 103 L 271 103 L 285 103 L 299 103 L 313 103 L 327 103 L 341 103 L 355 103 L 369 103 L 383 103 L 397 103 L 411 103 L 425 103 L 439 103 L 453 103 L 467 103 L 481 103 L 495 103 L 509 103 L 523 103 L 537 103 L 551 103 L 565 103 L 579 103 L 593 103 L 607 103 L 621 103 L 635 103 L 649 103 L 663 103 L 677 103 L 691 103 L 705 103 L 719 103 L 733 103 L 747 103 L 761 103 L 761 117 L 747 117 L 733 117 L 719 117 L 705 117 L 691 117 L 677 117 L 663 117 L 649 117 L 635 117 L 621 117 L 607 117 L 593 117 L 579 117 L 565 117 L 551 117 L 537 117 L 523 117 L 509 117 L 495 117 L 481 117 L 467 117 L 453 117 L 439 117 L 425 117 L 411 117 L 397 117 L 383 117 L 369 117 L 355 117 L 341 117 L 327 117 L 313 117 L 299 117 L 285 117 L 271 117 L 257 117 L 243 117 L 229 117 L 215 117 L 201 117 L 187 117 L 173 117 L 159 117 L 145 117 L 131 117 L 117 117 L 103 117 L 89 117 L 75 117 L 61 117 L 47 117 L 33 117 L 33 131 L 47 131 L 61 131 L 75 131 L 89 131 L 103 131 L 117 131 L 131 131 L 145 131 L 159 131 L 173 131 L 187 131 L 201 131 L 215 131 L 229 131 L 243 131 L 257 131 L 271 131 L 285 131 L 299 131 L 313 131 L 327 131 L 341 131 L 355 131 L 369 131 L 383 131 L 397 131 L 411 131 L 425 131 L 439 131 L 453 131 L 467 131 L 481 131 L 495 131 L 509 131 L 523 131 L 537 131 L 551 131 L 565 131 L 579 131 L 593 131 L 607 131 L 621 131 L 635 131 L 649 131 L 663 131 L 677 131 L 691 131 L 705 131 L 719 131 L 733 131 L 747 131 L 761 131"
+        />
+      </circle>
+    
+
+      <circle
+        cx="0"
+        cy="0"
+        r="5.06"
+        fill="#2EE6A6"
+        opacity="0.85"
+      >
+        <animateMotion
+          dur="22s"
+          begin="-0.980s"
+          repeatCount="indefinite"
+          rotate="auto"
+          path="M 33 47 L 47 47 L 61 47 L 75 47 L 89 47 L 103 47 L 117 47 L 131 47 L 145 47 L 159 47 L 173 47 L 187 47 L 201 47 L 215 47 L 229 47 L 243 47 L 257 47 L 271 47 L 285 47 L 299 47 L 313 47 L 327 47 L 341 47 L 355 47 L 369 47 L 383 47 L 397 47 L 411 47 L 425 47 L 439 47 L 453 47 L 467 47 L 481 47 L 495 47 L 509 47 L 523 47 L 537 47 L 551 47 L 565 47 L 579 47 L 593 47 L 607 47 L 621 47 L 635 47 L 649 47 L 663 47 L 677 47 L 691 47 L 705 47 L 719 47 L 733 47 L 747 47 L 761 47 L 761 61 L 747 61 L 733 61 L 719 61 L 705 61 L 691 61 L 677 61 L 663 61 L 649 61 L 635 61 L 621 61 L 607 61 L 593 61 L 579 61 L 565 61 L 551 61 L 537 61 L 523 61 L 509 61 L 495 61 L 481 61 L 467 61 L 453 61 L 439 61 L 425 61 L 411 61 L 397 61 L 383 61 L 369 61 L 355 61 L 341 61 L 327 61 L 313 61 L 299 61 L 285 61 L 271 61 L 257 61 L 243 61 L 229 61 L 215 61 L 201 61 L 187 61 L 173 61 L 159 61 L 145 61 L 131 61 L 117 61 L 103 61 L 89 61 L 75 61 L 61 61 L 47 61 L 33 61 L 33 75 L 47 75 L 61 75 L 75 75 L 89 75 L 103 75 L 117 75 L 131 75 L 145 75 L 159 75 L 173 75 L 187 75 L 201 75 L 215 75 L 229 75 L 243 75 L 257 75 L 271 75 L 285 75 L 299 75 L 313 75 L 327 75 L 341 75 L 355 75 L 369 75 L 383 75 L 397 75 L 411 75 L 425 75 L 439 75 L 453 75 L 467 75 L 481 75 L 495 75 L 509 75 L 523 75 L 537 75 L 551 75 L 565 75 L 579 75 L 593 75 L 607 75 L 621 75 L 635 75 L 649 75 L 663 75 L 677 75 L 691 75 L 705 75 L 719 75 L 733 75 L 747 75 L 761 75 L 761 89 L 747 89 L 733 89 L 719 89 L 705 89 L 691 89 L 677 89 L 663 89 L 649 89 L 635 89 L 621 89 L 607 89 L 593 89 L 579 89 L 565 89 L 551 89 L 537 89 L 523 89 L 509 89 L 495 89 L 481 89 L 467 89 L 453 89 L 439 89 L 425 89 L 411 89 L 397 89 L 383 89 L 369 89 L 355 89 L 341 89 L 327 89 L 313 89 L 299 89 L 285 89 L 271 89 L 257 89 L 243 89 L 229 89 L 215 89 L 201 89 L 187 89 L 173 89 L 159 89 L 145 89 L 131 89 L 117 89 L 103 89 L 89 89 L 75 89 L 61 89 L 47 89 L 33 89 L 33 103 L 47 103 L 61 103 L 75 103 L 89 103 L 103 103 L 117 103 L 131 103 L 145 103 L 159 103 L 173 103 L 187 103 L 201 103 L 215 103 L 229 103 L 243 103 L 257 103 L 271 103 L 285 103 L 299 103 L 313 103 L 327 103 L 341 103 L 355 103 L 369 103 L 383 103 L 397 103 L 411 103 L 425 103 L 439 103 L 453 103 L 467 103 L 481 103 L 495 103 L 509 103 L 523 103 L 537 103 L 551 103 L 565 103 L 579 103 L 593 103 L 607 103 L 621 103 L 635 103 L 649 103 L 663 103 L 677 103 L 691 103 L 705 103 L 719 103 L 733 103 L 747 103 L 761 103 L 761 117 L 747 117 L 733 117 L 719 117 L 705 117 L 691 117 L 677 117 L 663 117 L 649 117 L 635 117 L 621 117 L 607 117 L 593 117 L 579 117 L 565 117 L 551 117 L 537 117 L 523 117 L 509 117 L 495 117 L 481 117 L 467 117 L 453 117 L 439 117 L 425 117 L 411 117 L 397 117 L 383 117 L 369 117 L 355 117 L 341 117 L 327 117 L 313 117 L 299 117 L 285 117 L 271 117 L 257 117 L 243 117 L 229 117 L 215 117 L 201 117 L 187 117 L 173 117 L 159 117 L 145 117 L 131 117 L 117 117 L 103 117 L 89 117 L 75 117 L 61 117 L 47 117 L 33 117 L 33 131 L 47 131 L 61 131 L 75 131 L 89 131 L 103 131 L 117 131 L 131 131 L 145 131 L 159 131 L 173 131 L 187 131 L 201 131 L 215 131 L 229 131 L 243 131 L 257 131 L 271 131 L 285 131 L 299 131 L 313 131 L 327 131 L 341 131 L 355 131 L 369 131 L 383 131 L 397 131 L 411 131 L 425 131 L 439 131 L 453 131 L 467 131 L 481 131 L 495 131 L 509 131 L 523 131 L 537 131 L 551 131 L 565 131 L 579 131 L 593 131 L 607 131 L 621 131 L 635 131 L 649 131 L 663 131 L 677 131 L 691 131 L 705 131 L 719 131 L 733 131 L 747 131 L 761 131"
+        />
+      </circle>
+    
+
+      <circle
+        cx="0"
+        cy="0"
+        r="4.88"
+        fill="#16B981"
+        opacity="0.82"
+      >
+        <animateMotion
+          dur="22s"
+          begin="-0.875s"
+          repeatCount="indefinite"
+          rotate="auto"
+          path="M 33 47 L 47 47 L 61 47 L 75 47 L 89 47 L 103 47 L 117 47 L 131 47 L 145 47 L 159 47 L 173 47 L 187 47 L 201 47 L 215 47 L 229 47 L 243 47 L 257 47 L 271 47 L 285 47 L 299 47 L 313 47 L 327 47 L 341 47 L 355 47 L 369 47 L 383 47 L 397 47 L 411 47 L 425 47 L 439 47 L 453 47 L 467 47 L 481 47 L 495 47 L 509 47 L 523 47 L 537 47 L 551 47 L 565 47 L 579 47 L 593 47 L 607 47 L 621 47 L 635 47 L 649 47 L 663 47 L 677 47 L 691 47 L 705 47 L 719 47 L 733 47 L 747 47 L 761 47 L 761 61 L 747 61 L 733 61 L 719 61 L 705 61 L 691 61 L 677 61 L 663 61 L 649 61 L 635 61 L 621 61 L 607 61 L 593 61 L 579 61 L 565 61 L 551 61 L 537 61 L 523 61 L 509 61 L 495 61 L 481 61 L 467 61 L 453 61 L 439 61 L 425 61 L 411 61 L 397 61 L 383 61 L 369 61 L 355 61 L 341 61 L 327 61 L 313 61 L 299 61 L 285 61 L 271 61 L 257 61 L 243 61 L 229 61 L 215 61 L 201 61 L 187 61 L 173 61 L 159 61 L 145 61 L 131 61 L 117 61 L 103 61 L 89 61 L 75 61 L 61 61 L 47 61 L 33 61 L 33 75 L 47 75 L 61 75 L 75 75 L 89 75 L 103 75 L 117 75 L 131 75 L 145 75 L 159 75 L 173 75 L 187 75 L 201 75 L 215 75 L 229 75 L 243 75 L 257 75 L 271 75 L 285 75 L 299 75 L 313 75 L 327 75 L 341 75 L 355 75 L 369 75 L 383 75 L 397 75 L 411 75 L 425 75 L 439 75 L 453 75 L 467 75 L 481 75 L 495 75 L 509 75 L 523 75 L 537 75 L 551 75 L 565 75 L 579 75 L 593 75 L 607 75 L 621 75 L 635 75 L 649 75 L 663 75 L 677 75 L 691 75 L 705 75 L 719 75 L 733 75 L 747 75 L 761 75 L 761 89 L 747 89 L 733 89 L 719 89 L 705 89 L 691 89 L 677 89 L 663 89 L 649 89 L 635 89 L 621 89 L 607 89 L 593 89 L 579 89 L 565 89 L 551 89 L 537 89 L 523 89 L 509 89 L 495 89 L 481 89 L 467 89 L 453 89 L 439 89 L 425 89 L 411 89 L 397 89 L 383 89 L 369 89 L 355 89 L 341 89 L 327 89 L 313 89 L 299 89 L 285 89 L 271 89 L 257 89 L 243 89 L 229 89 L 215 89 L 201 89 L 187 89 L 173 89 L 159 89 L 145 89 L 131 89 L 117 89 L 103 89 L 89 89 L 75 89 L 61 89 L 47 89 L 33 89 L 33 103 L 47 103 L 61 103 L 75 103 L 89 103 L 103 103 L 117 103 L 131 103 L 145 103 L 159 103 L 173 103 L 187 103 L 201 103 L 215 103 L 229 103 L 243 103 L 257 103 L 271 103 L 285 103 L 299 103 L 313 103 L 327 103 L 341 103 L 355 103 L 369 103 L 383 103 L 397 103 L 411 103 L 425 103 L 439 103 L 453 103 L 467 103 L 481 103 L 495 103 L 509 103 L 523 103 L 537 103 L 551 103 L 565 103 L 579 103 L 593 103 L 607 103 L 621 103 L 635 103 L 649 103 L 663 103 L 677 103 L 691 103 L 705 103 L 719 103 L 733 103 L 747 103 L 761 103 L 761 117 L 747 117 L 733 117 L 719 117 L 705 117 L 691 117 L 677 117 L 663 117 L 649 117 L 635 117 L 621 117 L 607 117 L 593 117 L 579 117 L 565 117 L 551 117 L 537 117 L 523 117 L 509 117 L 495 117 L 481 117 L 467 117 L 453 117 L 439 117 L 425 117 L 411 117 L 397 117 L 383 117 L 369 117 L 355 117 L 341 117 L 327 117 L 313 117 L 299 117 L 285 117 L 271 117 L 257 117 L 243 117 L 229 117 L 215 117 L 201 117 L 187 117 L 173 117 L 159 117 L 145 117 L 131 117 L 117 117 L 103 117 L 89 117 L 75 117 L 61 117 L 47 117 L 33 117 L 33 131 L 47 131 L 61 131 L 75 131 L 89 131 L 103 131 L 117 131 L 131 131 L 145 131 L 159 131 L 173 131 L 187 131 L 201 131 L 215 131 L 229 131 L 243 131 L 257 131 L 271 131 L 285 131 L 299 131 L 313 131 L 327 131 L 341 131 L 355 131 L 369 131 L 383 131 L 397 131 L 411 131 L 425 131 L 439 131 L 453 131 L 467 131 L 481 131 L 495 131 L 509 131 L 523 131 L 537 131 L 551 131 L 565 131 L 579 131 L 593 131 L 607 131 L 621 131 L 635 131 L 649 131 L 663 131 L 677 131 L 691 131 L 705 131 L 719 131 L 733 131 L 747 131 L 761 131"
+        />
+      </circle>
+    
+
+      <circle
+        cx="0"
+        cy="0"
+        r="4.69"
+        fill="#16B981"
+        opacity="0.78"
+      >
+        <animateMotion
+          dur="22s"
+          begin="-0.770s"
+          repeatCount="indefinite"
+          rotate="auto"
+          path="M 33 47 L 47 47 L 61 47 L 75 47 L 89 47 L 103 47 L 117 47 L 131 47 L 145 47 L 159 47 L 173 47 L 187 47 L 201 47 L 215 47 L 229 47 L 243 47 L 257 47 L 271 47 L 285 47 L 299 47 L 313 47 L 327 47 L 341 47 L 355 47 L 369 47 L 383 47 L 397 47 L 411 47 L 425 47 L 439 47 L 453 47 L 467 47 L 481 47 L 495 47 L 509 47 L 523 47 L 537 47 L 551 47 L 565 47 L 579 47 L 593 47 L 607 47 L 621 47 L 635 47 L 649 47 L 663 47 L 677 47 L 691 47 L 705 47 L 719 47 L 733 47 L 747 47 L 761 47 L 761 61 L 747 61 L 733 61 L 719 61 L 705 61 L 691 61 L 677 61 L 663 61 L 649 61 L 635 61 L 621 61 L 607 61 L 593 61 L 579 61 L 565 61 L 551 61 L 537 61 L 523 61 L 509 61 L 495 61 L 481 61 L 467 61 L 453 61 L 439 61 L 425 61 L 411 61 L 397 61 L 383 61 L 369 61 L 355 61 L 341 61 L 327 61 L 313 61 L 299 61 L 285 61 L 271 61 L 257 61 L 243 61 L 229 61 L 215 61 L 201 61 L 187 61 L 173 61 L 159 61 L 145 61 L 131 61 L 117 61 L 103 61 L 89 61 L 75 61 L 61 61 L 47 61 L 33 61 L 33 75 L 47 75 L 61 75 L 75 75 L 89 75 L 103 75 L 117 75 L 131 75 L 145 75 L 159 75 L 173 75 L 187 75 L 201 75 L 215 75 L 229 75 L 243 75 L 257 75 L 271 75 L 285 75 L 299 75 L 313 75 L 327 75 L 341 75 L 355 75 L 369 75 L 383 75 L 397 75 L 411 75 L 425 75 L 439 75 L 453 75 L 467 75 L 481 75 L 495 75 L 509 75 L 523 75 L 537 75 L 551 75 L 565 75 L 579 75 L 593 75 L 607 75 L 621 75 L 635 75 L 649 75 L 663 75 L 677 75 L 691 75 L 705 75 L 719 75 L 733 75 L 747 75 L 761 75 L 761 89 L 747 89 L 733 89 L 719 89 L 705 89 L 691 89 L 677 89 L 663 89 L 649 89 L 635 89 L 621 89 L 607 89 L 593 89 L 579 89 L 565 89 L 551 89 L 537 89 L 523 89 L 509 89 L 495 89 L 481 89 L 467 89 L 453 89 L 439 89 L 425 89 L 411 89 L 397 89 L 383 89 L 369 89 L 355 89 L 341 89 L 327 89 L 313 89 L 299 89 L 285 89 L 271 89 L 257 89 L 243 89 L 229 89 L 215 89 L 201 89 L 187 89 L 173 89 L 159 89 L 145 89 L 131 89 L 117 89 L 103 89 L 89 89 L 75 89 L 61 89 L 47 89 L 33 89 L 33 103 L 47 103 L 61 103 L 75 103 L 89 103 L 103 103 L 117 103 L 131 103 L 145 103 L 159 103 L 173 103 L 187 103 L 201 103 L 215 103 L 229 103 L 243 103 L 257 103 L 271 103 L 285 103 L 299 103 L 313 103 L 327 103 L 341 103 L 355 103 L 369 103 L 383 103 L 397 103 L 411 103 L 425 103 L 439 103 L 453 103 L 467 103 L 481 103 L 495 103 L 509 103 L 523 103 L 537 103 L 551 103 L 565 103 L 579 103 L 593 103 L 607 103 L 621 103 L 635 103 L 649 103 L 663 103 L 677 103 L 691 103 L 705 103 L 719 103 L 733 103 L 747 103 L 761 103 L 761 117 L 747 117 L 733 117 L 719 117 L 705 117 L 691 117 L 677 117 L 663 117 L 649 117 L 635 117 L 621 117 L 607 117 L 593 117 L 579 117 L 565 117 L 551 117 L 537 117 L 523 117 L 509 117 L 495 117 L 481 117 L 467 117 L 453 117 L 439 117 L 425 117 L 411 117 L 397 117 L 383 117 L 369 117 L 355 117 L 341 117 L 327 117 L 313 117 L 299 117 L 285 117 L 271 117 L 257 117 L 243 117 L 229 117 L 215 117 L 201 117 L 187 117 L 173 117 L 159 117 L 145 117 L 131 117 L 117 117 L 103 117 L 89 117 L 75 117 L 61 117 L 47 117 L 33 117 L 33 131 L 47 131 L 61 131 L 75 131 L 89 131 L 103 131 L 117 131 L 131 131 L 145 131 L 159 131 L 173 131 L 187 131 L 201 131 L 215 131 L 229 131 L 243 131 L 257 131 L 271 131 L 285 131 L 299 131 L 313 131 L 327 131 L 341 131 L 355 131 L 369 131 L 383 131 L 397 131 L 411 131 L 425 131 L 439 131 L 453 131 L 467 131 L 481 131 L 495 131 L 509 131 L 523 131 L 537 131 L 551 131 L 565 131 L 579 131 L 593 131 L 607 131 L 621 131 L 635 131 L 649 131 L 663 131 L 677 131 L 691 131 L 705 131 L 719 131 L 733 131 L 747 131 L 761 131"
+        />
+      </circle>
+    
+
+      <circle
+        cx="0"
+        cy="0"
+        r="4.51"
+        fill="#16B981"
+        opacity="0.74"
+      >
+        <animateMotion
+          dur="22s"
+          begin="-0.665s"
+          repeatCount="indefinite"
+          rotate="auto"
+          path="M 33 47 L 47 47 L 61 47 L 75 47 L 89 47 L 103 47 L 117 47 L 131 47 L 145 47 L 159 47 L 173 47 L 187 47 L 201 47 L 215 47 L 229 47 L 243 47 L 257 47 L 271 47 L 285 47 L 299 47 L 313 47 L 327 47 L 341 47 L 355 47 L 369 47 L 383 47 L 397 47 L 411 47 L 425 47 L 439 47 L 453 47 L 467 47 L 481 47 L 495 47 L 509 47 L 523 47 L 537 47 L 551 47 L 565 47 L 579 47 L 593 47 L 607 47 L 621 47 L 635 47 L 649 47 L 663 47 L 677 47 L 691 47 L 705 47 L 719 47 L 733 47 L 747 47 L 761 47 L 761 61 L 747 61 L 733 61 L 719 61 L 705 61 L 691 61 L 677 61 L 663 61 L 649 61 L 635 61 L 621 61 L 607 61 L 593 61 L 579 61 L 565 61 L 551 61 L 537 61 L 523 61 L 509 61 L 495 61 L 481 61 L 467 61 L 453 61 L 439 61 L 425 61 L 411 61 L 397 61 L 383 61 L 369 61 L 355 61 L 341 61 L 327 61 L 313 61 L 299 61 L 285 61 L 271 61 L 257 61 L 243 61 L 229 61 L 215 61 L 201 61 L 187 61 L 173 61 L 159 61 L 145 61 L 131 61 L 117 61 L 103 61 L 89 61 L 75 61 L 61 61 L 47 61 L 33 61 L 33 75 L 47 75 L 61 75 L 75 75 L 89 75 L 103 75 L 117 75 L 131 75 L 145 75 L 159 75 L 173 75 L 187 75 L 201 75 L 215 75 L 229 75 L 243 75 L 257 75 L 271 75 L 285 75 L 299 75 L 313 75 L 327 75 L 341 75 L 355 75 L 369 75 L 383 75 L 397 75 L 411 75 L 425 75 L 439 75 L 453 75 L 467 75 L 481 75 L 495 75 L 509 75 L 523 75 L 537 75 L 551 75 L 565 75 L 579 75 L 593 75 L 607 75 L 621 75 L 635 75 L 649 75 L 663 75 L 677 75 L 691 75 L 705 75 L 719 75 L 733 75 L 747 75 L 761 75 L 761 89 L 747 89 L 733 89 L 719 89 L 705 89 L 691 89 L 677 89 L 663 89 L 649 89 L 635 89 L 621 89 L 607 89 L 593 89 L 579 89 L 565 89 L 551 89 L 537 89 L 523 89 L 509 89 L 495 89 L 481 89 L 467 89 L 453 89 L 439 89 L 425 89 L 411 89 L 397 89 L 383 89 L 369 89 L 355 89 L 341 89 L 327 89 L 313 89 L 299 89 L 285 89 L 271 89 L 257 89 L 243 89 L 229 89 L 215 89 L 201 89 L 187 89 L 173 89 L 159 89 L 145 89 L 131 89 L 117 89 L 103 89 L 89 89 L 75 89 L 61 89 L 47 89 L 33 89 L 33 103 L 47 103 L 61 103 L 75 103 L 89 103 L 103 103 L 117 103 L 131 103 L 145 103 L 159 103 L 173 103 L 187 103 L 201 103 L 215 103 L 229 103 L 243 103 L 257 103 L 271 103 L 285 103 L 299 103 L 313 103 L 327 103 L 341 103 L 355 103 L 369 103 L 383 103 L 397 103 L 411 103 L 425 103 L 439 103 L 453 103 L 467 103 L 481 103 L 495 103 L 509 103 L 523 103 L 537 103 L 551 103 L 565 103 L 579 103 L 593 103 L 607 103 L 621 103 L 635 103 L 649 103 L 663 103 L 677 103 L 691 103 L 705 103 L 719 103 L 733 103 L 747 103 L 761 103 L 761 117 L 747 117 L 733 117 L 719 117 L 705 117 L 691 117 L 677 117 L 663 117 L 649 117 L 635 117 L 621 117 L 607 117 L 593 117 L 579 117 L 565 117 L 551 117 L 537 117 L 523 117 L 509 117 L 495 117 L 481 117 L 467 117 L 453 117 L 439 117 L 425 117 L 411 117 L 397 117 L 383 117 L 369 117 L 355 117 L 341 117 L 327 117 L 313 117 L 299 117 L 285 117 L 271 117 L 257 117 L 243 117 L 229 117 L 215 117 L 201 117 L 187 117 L 173 117 L 159 117 L 145 117 L 131 117 L 117 117 L 103 117 L 89 117 L 75 117 L 61 117 L 47 117 L 33 117 L 33 131 L 47 131 L 61 131 L 75 131 L 89 131 L 103 131 L 117 131 L 131 131 L 145 131 L 159 131 L 173 131 L 187 131 L 201 131 L 215 131 L 229 131 L 243 131 L 257 131 L 271 131 L 285 131 L 299 131 L 313 131 L 327 131 L 341 131 L 355 131 L 369 131 L 383 131 L 397 131 L 411 131 L 425 131 L 439 131 L 453 131 L 467 131 L 481 131 L 495 131 L 509 131 L 523 131 L 537 131 L 551 131 L 565 131 L 579 131 L 593 131 L 607 131 L 621 131 L 635 131 L 649 131 L 663 131 L 677 131 L 691 131 L 705 131 L 719 131 L 733 131 L 747 131 L 761 131"
+        />
+      </circle>
+    
+
+      <circle
+        cx="0"
+        cy="0"
+        r="4.32"
+        fill="#16B981"
+        opacity="0.70"
+      >
+        <animateMotion
+          dur="22s"
+          begin="-0.560s"
+          repeatCount="indefinite"
+          rotate="auto"
+          path="M 33 47 L 47 47 L 61 47 L 75 47 L 89 47 L 103 47 L 117 47 L 131 47 L 145 47 L 159 47 L 173 47 L 187 47 L 201 47 L 215 47 L 229 47 L 243 47 L 257 47 L 271 47 L 285 47 L 299 47 L 313 47 L 327 47 L 341 47 L 355 47 L 369 47 L 383 47 L 397 47 L 411 47 L 425 47 L 439 47 L 453 47 L 467 47 L 481 47 L 495 47 L 509 47 L 523 47 L 537 47 L 551 47 L 565 47 L 579 47 L 593 47 L 607 47 L 621 47 L 635 47 L 649 47 L 663 47 L 677 47 L 691 47 L 705 47 L 719 47 L 733 47 L 747 47 L 761 47 L 761 61 L 747 61 L 733 61 L 719 61 L 705 61 L 691 61 L 677 61 L 663 61 L 649 61 L 635 61 L 621 61 L 607 61 L 593 61 L 579 61 L 565 61 L 551 61 L 537 61 L 523 61 L 509 61 L 495 61 L 481 61 L 467 61 L 453 61 L 439 61 L 425 61 L 411 61 L 397 61 L 383 61 L 369 61 L 355 61 L 341 61 L 327 61 L 313 61 L 299 61 L 285 61 L 271 61 L 257 61 L 243 61 L 229 61 L 215 61 L 201 61 L 187 61 L 173 61 L 159 61 L 145 61 L 131 61 L 117 61 L 103 61 L 89 61 L 75 61 L 61 61 L 47 61 L 33 61 L 33 75 L 47 75 L 61 75 L 75 75 L 89 75 L 103 75 L 117 75 L 131 75 L 145 75 L 159 75 L 173 75 L 187 75 L 201 75 L 215 75 L 229 75 L 243 75 L 257 75 L 271 75 L 285 75 L 299 75 L 313 75 L 327 75 L 341 75 L 355 75 L 369 75 L 383 75 L 397 75 L 411 75 L 425 75 L 439 75 L 453 75 L 467 75 L 481 75 L 495 75 L 509 75 L 523 75 L 537 75 L 551 75 L 565 75 L 579 75 L 593 75 L 607 75 L 621 75 L 635 75 L 649 75 L 663 75 L 677 75 L 691 75 L 705 75 L 719 75 L 733 75 L 747 75 L 761 75 L 761 89 L 747 89 L 733 89 L 719 89 L 705 89 L 691 89 L 677 89 L 663 89 L 649 89 L 635 89 L 621 89 L 607 89 L 593 89 L 579 89 L 565 89 L 551 89 L 537 89 L 523 89 L 509 89 L 495 89 L 481 89 L 467 89 L 453 89 L 439 89 L 425 89 L 411 89 L 397 89 L 383 89 L 369 89 L 355 89 L 341 89 L 327 89 L 313 89 L 299 89 L 285 89 L 271 89 L 257 89 L 243 89 L 229 89 L 215 89 L 201 89 L 187 89 L 173 89 L 159 89 L 145 89 L 131 89 L 117 89 L 103 89 L 89 89 L 75 89 L 61 89 L 47 89 L 33 89 L 33 103 L 47 103 L 61 103 L 75 103 L 89 103 L 103 103 L 117 103 L 131 103 L 145 103 L 159 103 L 173 103 L 187 103 L 201 103 L 215 103 L 229 103 L 243 103 L 257 103 L 271 103 L 285 103 L 299 103 L 313 103 L 327 103 L 341 103 L 355 103 L 369 103 L 383 103 L 397 103 L 411 103 L 425 103 L 439 103 L 453 103 L 467 103 L 481 103 L 495 103 L 509 103 L 523 103 L 537 103 L 551 103 L 565 103 L 579 103 L 593 103 L 607 103 L 621 103 L 635 103 L 649 103 L 663 103 L 677 103 L 691 103 L 705 103 L 719 103 L 733 103 L 747 103 L 761 103 L 761 117 L 747 117 L 733 117 L 719 117 L 705 117 L 691 117 L 677 117 L 663 117 L 649 117 L 635 117 L 621 117 L 607 117 L 593 117 L 579 117 L 565 117 L 551 117 L 537 117 L 523 117 L 509 117 L 495 117 L 481 117 L 467 117 L 453 117 L 439 117 L 425 117 L 411 117 L 397 117 L 383 117 L 369 117 L 355 117 L 341 117 L 327 117 L 313 117 L 299 117 L 285 117 L 271 117 L 257 117 L 243 117 L 229 117 L 215 117 L 201 117 L 187 117 L 173 117 L 159 117 L 145 117 L 131 117 L 117 117 L 103 117 L 89 117 L 75 117 L 61 117 L 47 117 L 33 117 L 33 131 L 47 131 L 61 131 L 75 131 L 89 131 L 103 131 L 117 131 L 131 131 L 145 131 L 159 131 L 173 131 L 187 131 L 201 131 L 215 131 L 229 131 L 243 131 L 257 131 L 271 131 L 285 131 L 299 131 L 313 131 L 327 131 L 341 131 L 355 131 L 369 131 L 383 131 L 397 131 L 411 131 L 425 131 L 439 131 L 453 131 L 467 131 L 481 131 L 495 131 L 509 131 L 523 131 L 537 131 L 551 131 L 565 131 L 579 131 L 593 131 L 607 131 L 621 131 L 635 131 L 649 131 L 663 131 L 677 131 L 691 131 L 705 131 L 719 131 L 733 131 L 747 131 L 761 131"
+        />
+      </circle>
+    
+
+      <circle
+        cx="0"
+        cy="0"
+        r="4.14"
+        fill="#16B981"
+        opacity="0.67"
+      >
+        <animateMotion
+          dur="22s"
+          begin="-0.455s"
+          repeatCount="indefinite"
+          rotate="auto"
+          path="M 33 47 L 47 47 L 61 47 L 75 47 L 89 47 L 103 47 L 117 47 L 131 47 L 145 47 L 159 47 L 173 47 L 187 47 L 201 47 L 215 47 L 229 47 L 243 47 L 257 47 L 271 47 L 285 47 L 299 47 L 313 47 L 327 47 L 341 47 L 355 47 L 369 47 L 383 47 L 397 47 L 411 47 L 425 47 L 439 47 L 453 47 L 467 47 L 481 47 L 495 47 L 509 47 L 523 47 L 537 47 L 551 47 L 565 47 L 579 47 L 593 47 L 607 47 L 621 47 L 635 47 L 649 47 L 663 47 L 677 47 L 691 47 L 705 47 L 719 47 L 733 47 L 747 47 L 761 47 L 761 61 L 747 61 L 733 61 L 719 61 L 705 61 L 691 61 L 677 61 L 663 61 L 649 61 L 635 61 L 621 61 L 607 61 L 593 61 L 579 61 L 565 61 L 551 61 L 537 61 L 523 61 L 509 61 L 495 61 L 481 61 L 467 61 L 453 61 L 439 61 L 425 61 L 411 61 L 397 61 L 383 61 L 369 61 L 355 61 L 341 61 L 327 61 L 313 61 L 299 61 L 285 61 L 271 61 L 257 61 L 243 61 L 229 61 L 215 61 L 201 61 L 187 61 L 173 61 L 159 61 L 145 61 L 131 61 L 117 61 L 103 61 L 89 61 L 75 61 L 61 61 L 47 61 L 33 61 L 33 75 L 47 75 L 61 75 L 75 75 L 89 75 L 103 75 L 117 75 L 131 75 L 145 75 L 159 75 L 173 75 L 187 75 L 201 75 L 215 75 L 229 75 L 243 75 L 257 75 L 271 75 L 285 75 L 299 75 L 313 75 L 327 75 L 341 75 L 355 75 L 369 75 L 383 75 L 397 75 L 411 75 L 425 75 L 439 75 L 453 75 L 467 75 L 481 75 L 495 75 L 509 75 L 523 75 L 537 75 L 551 75 L 565 75 L 579 75 L 593 75 L 607 75 L 621 75 L 635 75 L 649 75 L 663 75 L 677 75 L 691 75 L 705 75 L 719 75 L 733 75 L 747 75 L 761 75 L 761 89 L 747 89 L 733 89 L 719 89 L 705 89 L 691 89 L 677 89 L 663 89 L 649 89 L 635 89 L 621 89 L 607 89 L 593 89 L 579 89 L 565 89 L 551 89 L 537 89 L 523 89 L 509 89 L 495 89 L 481 89 L 467 89 L 453 89 L 439 89 L 425 89 L 411 89 L 397 89 L 383 89 L 369 89 L 355 89 L 341 89 L 327 89 L 313 89 L 299 89 L 285 89 L 271 89 L 257 89 L 243 89 L 229 89 L 215 89 L 201 89 L 187 89 L 173 89 L 159 89 L 145 89 L 131 89 L 117 89 L 103 89 L 89 89 L 75 89 L 61 89 L 47 89 L 33 89 L 33 103 L 47 103 L 61 103 L 75 103 L 89 103 L 103 103 L 117 103 L 131 103 L 145 103 L 159 103 L 173 103 L 187 103 L 201 103 L 215 103 L 229 103 L 243 103 L 257 103 L 271 103 L 285 103 L 299 103 L 313 103 L 327 103 L 341 103 L 355 103 L 369 103 L 383 103 L 397 103 L 411 103 L 425 103 L 439 103 L 453 103 L 467 103 L 481 103 L 495 103 L 509 103 L 523 103 L 537 103 L 551 103 L 565 103 L 579 103 L 593 103 L 607 103 L 621 103 L 635 103 L 649 103 L 663 103 L 677 103 L 691 103 L 705 103 L 719 103 L 733 103 L 747 103 L 761 103 L 761 117 L 747 117 L 733 117 L 719 117 L 705 117 L 691 117 L 677 117 L 663 117 L 649 117 L 635 117 L 621 117 L 607 117 L 593 117 L 579 117 L 565 117 L 551 117 L 537 117 L 523 117 L 509 117 L 495 117 L 481 117 L 467 117 L 453 117 L 439 117 L 425 117 L 411 117 L 397 117 L 383 117 L 369 117 L 355 117 L 341 117 L 327 117 L 313 117 L 299 117 L 285 117 L 271 117 L 257 117 L 243 117 L 229 117 L 215 117 L 201 117 L 187 117 L 173 117 L 159 117 L 145 117 L 131 117 L 117 117 L 103 117 L 89 117 L 75 117 L 61 117 L 47 117 L 33 117 L 33 131 L 47 131 L 61 131 L 75 131 L 89 131 L 103 131 L 117 131 L 131 131 L 145 131 L 159 131 L 173 131 L 187 131 L 201 131 L 215 131 L 229 131 L 243 131 L 257 131 L 271 131 L 285 131 L 299 131 L 313 131 L 327 131 L 341 131 L 355 131 L 369 131 L 383 131 L 397 131 L 411 131 L 425 131 L 439 131 L 453 131 L 467 131 L 481 131 L 495 131 L 509 131 L 523 131 L 537 131 L 551 131 L 565 131 L 579 131 L 593 131 L 607 131 L 621 131 L 635 131 L 649 131 L 663 131 L 677 131 L 691 131 L 705 131 L 719 131 L 733 131 L 747 131 L 761 131"
+        />
+      </circle>
+    
+
+      <circle
+        cx="0"
+        cy="0"
+        r="3.95"
+        fill="#16B981"
+        opacity="0.63"
+      >
+        <animateMotion
+          dur="22s"
+          begin="-0.350s"
+          repeatCount="indefinite"
+          rotate="auto"
+          path="M 33 47 L 47 47 L 61 47 L 75 47 L 89 47 L 103 47 L 117 47 L 131 47 L 145 47 L 159 47 L 173 47 L 187 47 L 201 47 L 215 47 L 229 47 L 243 47 L 257 47 L 271 47 L 285 47 L 299 47 L 313 47 L 327 47 L 341 47 L 355 47 L 369 47 L 383 47 L 397 47 L 411 47 L 425 47 L 439 47 L 453 47 L 467 47 L 481 47 L 495 47 L 509 47 L 523 47 L 537 47 L 551 47 L 565 47 L 579 47 L 593 47 L 607 47 L 621 47 L 635 47 L 649 47 L 663 47 L 677 47 L 691 47 L 705 47 L 719 47 L 733 47 L 747 47 L 761 47 L 761 61 L 747 61 L 733 61 L 719 61 L 705 61 L 691 61 L 677 61 L 663 61 L 649 61 L 635 61 L 621 61 L 607 61 L 593 61 L 579 61 L 565 61 L 551 61 L 537 61 L 523 61 L 509 61 L 495 61 L 481 61 L 467 61 L 453 61 L 439 61 L 425 61 L 411 61 L 397 61 L 383 61 L 369 61 L 355 61 L 341 61 L 327 61 L 313 61 L 299 61 L 285 61 L 271 61 L 257 61 L 243 61 L 229 61 L 215 61 L 201 61 L 187 61 L 173 61 L 159 61 L 145 61 L 131 61 L 117 61 L 103 61 L 89 61 L 75 61 L 61 61 L 47 61 L 33 61 L 33 75 L 47 75 L 61 75 L 75 75 L 89 75 L 103 75 L 117 75 L 131 75 L 145 75 L 159 75 L 173 75 L 187 75 L 201 75 L 215 75 L 229 75 L 243 75 L 257 75 L 271 75 L 285 75 L 299 75 L 313 75 L 327 75 L 341 75 L 355 75 L 369 75 L 383 75 L 397 75 L 411 75 L 425 75 L 439 75 L 453 75 L 467 75 L 481 75 L 495 75 L 509 75 L 523 75 L 537 75 L 551 75 L 565 75 L 579 75 L 593 75 L 607 75 L 621 75 L 635 75 L 649 75 L 663 75 L 677 75 L 691 75 L 705 75 L 719 75 L 733 75 L 747 75 L 761 75 L 761 89 L 747 89 L 733 89 L 719 89 L 705 89 L 691 89 L 677 89 L 663 89 L 649 89 L 635 89 L 621 89 L 607 89 L 593 89 L 579 89 L 565 89 L 551 89 L 537 89 L 523 89 L 509 89 L 495 89 L 481 89 L 467 89 L 453 89 L 439 89 L 425 89 L 411 89 L 397 89 L 383 89 L 369 89 L 355 89 L 341 89 L 327 89 L 313 89 L 299 89 L 285 89 L 271 89 L 257 89 L 243 89 L 229 89 L 215 89 L 201 89 L 187 89 L 173 89 L 159 89 L 145 89 L 131 89 L 117 89 L 103 89 L 89 89 L 75 89 L 61 89 L 47 89 L 33 89 L 33 103 L 47 103 L 61 103 L 75 103 L 89 103 L 103 103 L 117 103 L 131 103 L 145 103 L 159 103 L 173 103 L 187 103 L 201 103 L 215 103 L 229 103 L 243 103 L 257 103 L 271 103 L 285 103 L 299 103 L 313 103 L 327 103 L 341 103 L 355 103 L 369 103 L 383 103 L 397 103 L 411 103 L 425 103 L 439 103 L 453 103 L 467 103 L 481 103 L 495 103 L 509 103 L 523 103 L 537 103 L 551 103 L 565 103 L 579 103 L 593 103 L 607 103 L 621 103 L 635 103 L 649 103 L 663 103 L 677 103 L 691 103 L 705 103 L 719 103 L 733 103 L 747 103 L 761 103 L 761 117 L 747 117 L 733 117 L 719 117 L 705 117 L 691 117 L 677 117 L 663 117 L 649 117 L 635 117 L 621 117 L 607 117 L 593 117 L 579 117 L 565 117 L 551 117 L 537 117 L 523 117 L 509 117 L 495 117 L 481 117 L 467 117 L 453 117 L 439 117 L 425 117 L 411 117 L 397 117 L 383 117 L 369 117 L 355 117 L 341 117 L 327 117 L 313 117 L 299 117 L 285 117 L 271 117 L 257 117 L 243 117 L 229 117 L 215 117 L 201 117 L 187 117 L 173 117 L 159 117 L 145 117 L 131 117 L 117 117 L 103 117 L 89 117 L 75 117 L 61 117 L 47 117 L 33 117 L 33 131 L 47 131 L 61 131 L 75 131 L 89 131 L 103 131 L 117 131 L 131 131 L 145 131 L 159 131 L 173 131 L 187 131 L 201 131 L 215 131 L 229 131 L 243 131 L 257 131 L 271 131 L 285 131 L 299 131 L 313 131 L 327 131 L 341 131 L 355 131 L 369 131 L 383 131 L 397 131 L 411 131 L 425 131 L 439 131 L 453 131 L 467 131 L 481 131 L 495 131 L 509 131 L 523 131 L 537 131 L 551 131 L 565 131 L 579 131 L 593 131 L 607 131 L 621 131 L 635 131 L 649 131 L 663 131 L 677 131 L 691 131 L 705 131 L 719 131 L 733 131 L 747 131 L 761 131"
+        />
+      </circle>
+    
+
+      <circle
+        cx="0"
+        cy="0"
+        r="3.77"
+        fill="#16B981"
+        opacity="0.59"
+      >
+        <animateMotion
+          dur="22s"
+          begin="-0.245s"
+          repeatCount="indefinite"
+          rotate="auto"
+          path="M 33 47 L 47 47 L 61 47 L 75 47 L 89 47 L 103 47 L 117 47 L 131 47 L 145 47 L 159 47 L 173 47 L 187 47 L 201 47 L 215 47 L 229 47 L 243 47 L 257 47 L 271 47 L 285 47 L 299 47 L 313 47 L 327 47 L 341 47 L 355 47 L 369 47 L 383 47 L 397 47 L 411 47 L 425 47 L 439 47 L 453 47 L 467 47 L 481 47 L 495 47 L 509 47 L 523 47 L 537 47 L 551 47 L 565 47 L 579 47 L 593 47 L 607 47 L 621 47 L 635 47 L 649 47 L 663 47 L 677 47 L 691 47 L 705 47 L 719 47 L 733 47 L 747 47 L 761 47 L 761 61 L 747 61 L 733 61 L 719 61 L 705 61 L 691 61 L 677 61 L 663 61 L 649 61 L 635 61 L 621 61 L 607 61 L 593 61 L 579 61 L 565 61 L 551 61 L 537 61 L 523 61 L 509 61 L 495 61 L 481 61 L 467 61 L 453 61 L 439 61 L 425 61 L 411 61 L 397 61 L 383 61 L 369 61 L 355 61 L 341 61 L 327 61 L 313 61 L 299 61 L 285 61 L 271 61 L 257 61 L 243 61 L 229 61 L 215 61 L 201 61 L 187 61 L 173 61 L 159 61 L 145 61 L 131 61 L 117 61 L 103 61 L 89 61 L 75 61 L 61 61 L 47 61 L 33 61 L 33 75 L 47 75 L 61 75 L 75 75 L 89 75 L 103 75 L 117 75 L 131 75 L 145 75 L 159 75 L 173 75 L 187 75 L 201 75 L 215 75 L 229 75 L 243 75 L 257 75 L 271 75 L 285 75 L 299 75 L 313 75 L 327 75 L 341 75 L 355 75 L 369 75 L 383 75 L 397 75 L 411 75 L 425 75 L 439 75 L 453 75 L 467 75 L 481 75 L 495 75 L 509 75 L 523 75 L 537 75 L 551 75 L 565 75 L 579 75 L 593 75 L 607 75 L 621 75 L 635 75 L 649 75 L 663 75 L 677 75 L 691 75 L 705 75 L 719 75 L 733 75 L 747 75 L 761 75 L 761 89 L 747 89 L 733 89 L 719 89 L 705 89 L 691 89 L 677 89 L 663 89 L 649 89 L 635 89 L 621 89 L 607 89 L 593 89 L 579 89 L 565 89 L 551 89 L 537 89 L 523 89 L 509 89 L 495 89 L 481 89 L 467 89 L 453 89 L 439 89 L 425 89 L 411 89 L 397 89 L 383 89 L 369 89 L 355 89 L 341 89 L 327 89 L 313 89 L 299 89 L 285 89 L 271 89 L 257 89 L 243 89 L 229 89 L 215 89 L 201 89 L 187 89 L 173 89 L 159 89 L 145 89 L 131 89 L 117 89 L 103 89 L 89 89 L 75 89 L 61 89 L 47 89 L 33 89 L 33 103 L 47 103 L 61 103 L 75 103 L 89 103 L 103 103 L 117 103 L 131 103 L 145 103 L 159 103 L 173 103 L 187 103 L 201 103 L 215 103 L 229 103 L 243 103 L 257 103 L 271 103 L 285 103 L 299 103 L 313 103 L 327 103 L 341 103 L 355 103 L 369 103 L 383 103 L 397 103 L 411 103 L 425 103 L 439 103 L 453 103 L 467 103 L 481 103 L 495 103 L 509 103 L 523 103 L 537 103 L 551 103 L 565 103 L 579 103 L 593 103 L 607 103 L 621 103 L 635 103 L 649 103 L 663 103 L 677 103 L 691 103 L 705 103 L 719 103 L 733 103 L 747 103 L 761 103 L 761 117 L 747 117 L 733 117 L 719 117 L 705 117 L 691 117 L 677 117 L 663 117 L 649 117 L 635 117 L 621 117 L 607 117 L 593 117 L 579 117 L 565 117 L 551 117 L 537 117 L 523 117 L 509 117 L 495 117 L 481 117 L 467 117 L 453 117 L 439 117 L 425 117 L 411 117 L 397 117 L 383 117 L 369 117 L 355 117 L 341 117 L 327 117 L 313 117 L 299 117 L 285 117 L 271 117 L 257 117 L 243 117 L 229 117 L 215 117 L 201 117 L 187 117 L 173 117 L 159 117 L 145 117 L 131 117 L 117 117 L 103 117 L 89 117 L 75 117 L 61 117 L 47 117 L 33 117 L 33 131 L 47 131 L 61 131 L 75 131 L 89 131 L 103 131 L 117 131 L 131 131 L 145 131 L 159 131 L 173 131 L 187 131 L 201 131 L 215 131 L 229 131 L 243 131 L 257 131 L 271 131 L 285 131 L 299 131 L 313 131 L 327 131 L 341 131 L 355 131 L 369 131 L 383 131 L 397 131 L 411 131 L 425 131 L 439 131 L 453 131 L 467 131 L 481 131 L 495 131 L 509 131 L 523 131 L 537 131 L 551 131 L 565 131 L 579 131 L 593 131 L 607 131 L 621 131 L 635 131 L 649 131 L 663 131 L 677 131 L 691 131 L 705 131 L 719 131 L 733 131 L 747 131 L 761 131"
+        />
+      </circle>
+    
+
+      <circle
+        cx="0"
+        cy="0"
+        r="3.58"
+        fill="#16B981"
+        opacity="0.56"
+      >
+        <animateMotion
+          dur="22s"
+          begin="-0.140s"
+          repeatCount="indefinite"
+          rotate="auto"
+          path="M 33 47 L 47 47 L 61 47 L 75 47 L 89 47 L 103 47 L 117 47 L 131 47 L 145 47 L 159 47 L 173 47 L 187 47 L 201 47 L 215 47 L 229 47 L 243 47 L 257 47 L 271 47 L 285 47 L 299 47 L 313 47 L 327 47 L 341 47 L 355 47 L 369 47 L 383 47 L 397 47 L 411 47 L 425 47 L 439 47 L 453 47 L 467 47 L 481 47 L 495 47 L 509 47 L 523 47 L 537 47 L 551 47 L 565 47 L 579 47 L 593 47 L 607 47 L 621 47 L 635 47 L 649 47 L 663 47 L 677 47 L 691 47 L 705 47 L 719 47 L 733 47 L 747 47 L 761 47 L 761 61 L 747 61 L 733 61 L 719 61 L 705 61 L 691 61 L 677 61 L 663 61 L 649 61 L 635 61 L 621 61 L 607 61 L 593 61 L 579 61 L 565 61 L 551 61 L 537 61 L 523 61 L 509 61 L 495 61 L 481 61 L 467 61 L 453 61 L 439 61 L 425 61 L 411 61 L 397 61 L 383 61 L 369 61 L 355 61 L 341 61 L 327 61 L 313 61 L 299 61 L 285 61 L 271 61 L 257 61 L 243 61 L 229 61 L 215 61 L 201 61 L 187 61 L 173 61 L 159 61 L 145 61 L 131 61 L 117 61 L 103 61 L 89 61 L 75 61 L 61 61 L 47 61 L 33 61 L 33 75 L 47 75 L 61 75 L 75 75 L 89 75 L 103 75 L 117 75 L 131 75 L 145 75 L 159 75 L 173 75 L 187 75 L 201 75 L 215 75 L 229 75 L 243 75 L 257 75 L 271 75 L 285 75 L 299 75 L 313 75 L 327 75 L 341 75 L 355 75 L 369 75 L 383 75 L 397 75 L 411 75 L 425 75 L 439 75 L 453 75 L 467 75 L 481 75 L 495 75 L 509 75 L 523 75 L 537 75 L 551 75 L 565 75 L 579 75 L 593 75 L 607 75 L 621 75 L 635 75 L 649 75 L 663 75 L 677 75 L 691 75 L 705 75 L 719 75 L 733 75 L 747 75 L 761 75 L 761 89 L 747 89 L 733 89 L 719 89 L 705 89 L 691 89 L 677 89 L 663 89 L 649 89 L 635 89 L 621 89 L 607 89 L 593 89 L 579 89 L 565 89 L 551 89 L 537 89 L 523 89 L 509 89 L 495 89 L 481 89 L 467 89 L 453 89 L 439 89 L 425 89 L 411 89 L 397 89 L 383 89 L 369 89 L 355 89 L 341 89 L 327 89 L 313 89 L 299 89 L 285 89 L 271 89 L 257 89 L 243 89 L 229 89 L 215 89 L 201 89 L 187 89 L 173 89 L 159 89 L 145 89 L 131 89 L 117 89 L 103 89 L 89 89 L 75 89 L 61 89 L 47 89 L 33 89 L 33 103 L 47 103 L 61 103 L 75 103 L 89 103 L 103 103 L 117 103 L 131 103 L 145 103 L 159 103 L 173 103 L 187 103 L 201 103 L 215 103 L 229 103 L 243 103 L 257 103 L 271 103 L 285 103 L 299 103 L 313 103 L 327 103 L 341 103 L 355 103 L 369 103 L 383 103 L 397 103 L 411 103 L 425 103 L 439 103 L 453 103 L 467 103 L 481 103 L 495 103 L 509 103 L 523 103 L 537 103 L 551 103 L 565 103 L 579 103 L 593 103 L 607 103 L 621 103 L 635 103 L 649 103 L 663 103 L 677 103 L 691 103 L 705 103 L 719 103 L 733 103 L 747 103 L 761 103 L 761 117 L 747 117 L 733 117 L 719 117 L 705 117 L 691 117 L 677 117 L 663 117 L 649 117 L 635 117 L 621 117 L 607 117 L 593 117 L 579 117 L 565 117 L 551 117 L 537 117 L 523 117 L 509 117 L 495 117 L 481 117 L 467 117 L 453 117 L 439 117 L 425 117 L 411 117 L 397 117 L 383 117 L 369 117 L 355 117 L 341 117 L 327 117 L 313 117 L 299 117 L 285 117 L 271 117 L 257 117 L 243 117 L 229 117 L 215 117 L 201 117 L 187 117 L 173 117 L 159 117 L 145 117 L 131 117 L 117 117 L 103 117 L 89 117 L 75 117 L 61 117 L 47 117 L 33 117 L 33 131 L 47 131 L 61 131 L 75 131 L 89 131 L 103 131 L 117 131 L 131 131 L 145 131 L 159 131 L 173 131 L 187 131 L 201 131 L 215 131 L 229 131 L 243 131 L 257 131 L 271 131 L 285 131 L 299 131 L 313 131 L 327 131 L 341 131 L 355 131 L 369 131 L 383 131 L 397 131 L 411 131 L 425 131 L 439 131 L 453 131 L 467 131 L 481 131 L 495 131 L 509 131 L 523 131 L 537 131 L 551 131 L 565 131 L 579 131 L 593 131 L 607 131 L 621 131 L 635 131 L 649 131 L 663 131 L 677 131 L 691 131 L 705 131 L 719 131 L 733 131 L 747 131 L 761 131"
+        />
+      </circle>
+    
+
+      <circle
+        cx="0"
+        cy="0"
+        r="3.40"
+        fill="#16B981"
+        opacity="0.52"
+      >
+        <animateMotion
+          dur="22s"
+          begin="-0.035s"
+          repeatCount="indefinite"
+          rotate="auto"
+          path="M 33 47 L 47 47 L 61 47 L 75 47 L 89 47 L 103 47 L 117 47 L 131 47 L 145 47 L 159 47 L 173 47 L 187 47 L 201 47 L 215 47 L 229 47 L 243 47 L 257 47 L 271 47 L 285 47 L 299 47 L 313 47 L 327 47 L 341 47 L 355 47 L 369 47 L 383 47 L 397 47 L 411 47 L 425 47 L 439 47 L 453 47 L 467 47 L 481 47 L 495 47 L 509 47 L 523 47 L 537 47 L 551 47 L 565 47 L 579 47 L 593 47 L 607 47 L 621 47 L 635 47 L 649 47 L 663 47 L 677 47 L 691 47 L 705 47 L 719 47 L 733 47 L 747 47 L 761 47 L 761 61 L 747 61 L 733 61 L 719 61 L 705 61 L 691 61 L 677 61 L 663 61 L 649 61 L 635 61 L 621 61 L 607 61 L 593 61 L 579 61 L 565 61 L 551 61 L 537 61 L 523 61 L 509 61 L 495 61 L 481 61 L 467 61 L 453 61 L 439 61 L 425 61 L 411 61 L 397 61 L 383 61 L 369 61 L 355 61 L 341 61 L 327 61 L 313 61 L 299 61 L 285 61 L 271 61 L 257 61 L 243 61 L 229 61 L 215 61 L 201 61 L 187 61 L 173 61 L 159 61 L 145 61 L 131 61 L 117 61 L 103 61 L 89 61 L 75 61 L 61 61 L 47 61 L 33 61 L 33 75 L 47 75 L 61 75 L 75 75 L 89 75 L 103 75 L 117 75 L 131 75 L 145 75 L 159 75 L 173 75 L 187 75 L 201 75 L 215 75 L 229 75 L 243 75 L 257 75 L 271 75 L 285 75 L 299 75 L 313 75 L 327 75 L 341 75 L 355 75 L 369 75 L 383 75 L 397 75 L 411 75 L 425 75 L 439 75 L 453 75 L 467 75 L 481 75 L 495 75 L 509 75 L 523 75 L 537 75 L 551 75 L 565 75 L 579 75 L 593 75 L 607 75 L 621 75 L 635 75 L 649 75 L 663 75 L 677 75 L 691 75 L 705 75 L 719 75 L 733 75 L 747 75 L 761 75 L 761 89 L 747 89 L 733 89 L 719 89 L 705 89 L 691 89 L 677 89 L 663 89 L 649 89 L 635 89 L 621 89 L 607 89 L 593 89 L 579 89 L 565 89 L 551 89 L 537 89 L 523 89 L 509 89 L 495 89 L 481 89 L 467 89 L 453 89 L 439 89 L 425 89 L 411 89 L 397 89 L 383 89 L 369 89 L 355 89 L 341 89 L 327 89 L 313 89 L 299 89 L 285 89 L 271 89 L 257 89 L 243 89 L 229 89 L 215 89 L 201 89 L 187 89 L 173 89 L 159 89 L 145 89 L 131 89 L 117 89 L 103 89 L 89 89 L 75 89 L 61 89 L 47 89 L 33 89 L 33 103 L 47 103 L 61 103 L 75 103 L 89 103 L 103 103 L 117 103 L 131 103 L 145 103 L 159 103 L 173 103 L 187 103 L 201 103 L 215 103 L 229 103 L 243 103 L 257 103 L 271 103 L 285 103 L 299 103 L 313 103 L 327 103 L 341 103 L 355 103 L 369 103 L 383 103 L 397 103 L 411 103 L 425 103 L 439 103 L 453 103 L 467 103 L 481 103 L 495 103 L 509 103 L 523 103 L 537 103 L 551 103 L 565 103 L 579 103 L 593 103 L 607 103 L 621 103 L 635 103 L 649 103 L 663 103 L 677 103 L 691 103 L 705 103 L 719 103 L 733 103 L 747 103 L 761 103 L 761 117 L 747 117 L 733 117 L 719 117 L 705 117 L 691 117 L 677 117 L 663 117 L 649 117 L 635 117 L 621 117 L 607 117 L 593 117 L 579 117 L 565 117 L 551 117 L 537 117 L 523 117 L 509 117 L 495 117 L 481 117 L 467 117 L 453 117 L 439 117 L 425 117 L 411 117 L 397 117 L 383 117 L 369 117 L 355 117 L 341 117 L 327 117 L 313 117 L 299 117 L 285 117 L 271 117 L 257 117 L 243 117 L 229 117 L 215 117 L 201 117 L 187 117 L 173 117 L 159 117 L 145 117 L 131 117 L 117 117 L 103 117 L 89 117 L 75 117 L 61 117 L 47 117 L 33 117 L 33 131 L 47 131 L 61 131 L 75 131 L 89 131 L 103 131 L 117 131 L 131 131 L 145 131 L 159 131 L 173 131 L 187 131 L 201 131 L 215 131 L 229 131 L 243 131 L 257 131 L 271 131 L 285 131 L 299 131 L 313 131 L 327 131 L 341 131 L 355 131 L 369 131 L 383 131 L 397 131 L 411 131 L 425 131 L 439 131 L 453 131 L 467 131 L 481 131 L 495 131 L 509 131 L 523 131 L 537 131 L 551 131 L 565 131 L 579 131 L 593 131 L 607 131 L 621 131 L 635 131 L 649 131 L 663 131 L 677 131 L 691 131 L 705 131 L 719 131 L 733 131 L 747 131 L 761 131"
+        />
+      </circle>
+    
+
+</g>
+
+<!-- CABEÇA -->
+
+<g id="snake-head">
+
+
+<g>
+
+  <circle
+    cx="0"
+    cy="0"
+    r="8"
+    fill="#2EE6A6"
+  />
+
+  <!-- Olho superior -->
+
+  <circle
+    cx="2.2"
+    cy="-3.1"
+    r="2"
+    fill="#FFFFFF"
+  />
+
+  <circle
+    cx="3.1"
+    cy="-3.1"
+    r="0.9"
+    fill="#07130F"
+  />
+
+  <!-- Olho inferior -->
+
+  <circle
+    cx="2.2"
+    cy="3.1"
+    r="2"
+    fill="#FFFFFF"
+  />
+
+  <circle
+    cx="3.1"
+    cy="3.1"
+    r="0.9"
+    fill="#07130F"
+  />
+
+  <!-- Boca -->
+
+  <path
+    d="M 2 0 L 9 -4.5 L 9 4.5 Z"
+    fill="#0D1117"
+  >
+
+    <animateTransform
+      attributeName="transform"
+      type="scale"
+      values="
+        1 0.20;
+        1 1;
+        1 0.20
+      "
+      dur="0.32s"
+      repeatCount="indefinite"
+    />
+
+  </path>
+
+  <!-- Língua -->
+
+  <g>
+
+    <path
+      d="
+        M 7 0
+        L 13 0
+        M 13 0
+        L 16 -2
+        M 13 0
+        L 16 2
+      "
+      stroke="#FF4D78"
+      stroke-width="1.4"
+      stroke-linecap="round"
+      fill="none"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;1;0"
+      dur="0.75s"
+      repeatCount="indefinite"
+    />
+
+  </g>
+
+  <animateMotion
+    dur="22s"
+    begin="-1.4s"
+    repeatCount="indefinite"
+    rotate="auto"
+    path="M 33 47 L 47 47 L 61 47 L 75 47 L 89 47 L 103 47 L 117 47 L 131 47 L 145 47 L 159 47 L 173 47 L 187 47 L 201 47 L 215 47 L 229 47 L 243 47 L 257 47 L 271 47 L 285 47 L 299 47 L 313 47 L 327 47 L 341 47 L 355 47 L 369 47 L 383 47 L 397 47 L 411 47 L 425 47 L 439 47 L 453 47 L 467 47 L 481 47 L 495 47 L 509 47 L 523 47 L 537 47 L 551 47 L 565 47 L 579 47 L 593 47 L 607 47 L 621 47 L 635 47 L 649 47 L 663 47 L 677 47 L 691 47 L 705 47 L 719 47 L 733 47 L 747 47 L 761 47 L 761 61 L 747 61 L 733 61 L 719 61 L 705 61 L 691 61 L 677 61 L 663 61 L 649 61 L 635 61 L 621 61 L 607 61 L 593 61 L 579 61 L 565 61 L 551 61 L 537 61 L 523 61 L 509 61 L 495 61 L 481 61 L 467 61 L 453 61 L 439 61 L 425 61 L 411 61 L 397 61 L 383 61 L 369 61 L 355 61 L 341 61 L 327 61 L 313 61 L 299 61 L 285 61 L 271 61 L 257 61 L 243 61 L 229 61 L 215 61 L 201 61 L 187 61 L 173 61 L 159 61 L 145 61 L 131 61 L 117 61 L 103 61 L 89 61 L 75 61 L 61 61 L 47 61 L 33 61 L 33 75 L 47 75 L 61 75 L 75 75 L 89 75 L 103 75 L 117 75 L 131 75 L 145 75 L 159 75 L 173 75 L 187 75 L 201 75 L 215 75 L 229 75 L 243 75 L 257 75 L 271 75 L 285 75 L 299 75 L 313 75 L 327 75 L 341 75 L 355 75 L 369 75 L 383 75 L 397 75 L 411 75 L 425 75 L 439 75 L 453 75 L 467 75 L 481 75 L 495 75 L 509 75 L 523 75 L 537 75 L 551 75 L 565 75 L 579 75 L 593 75 L 607 75 L 621 75 L 635 75 L 649 75 L 663 75 L 677 75 L 691 75 L 705 75 L 719 75 L 733 75 L 747 75 L 761 75 L 761 89 L 747 89 L 733 89 L 719 89 L 705 89 L 691 89 L 677 89 L 663 89 L 649 89 L 635 89 L 621 89 L 607 89 L 593 89 L 579 89 L 565 89 L 551 89 L 537 89 L 523 89 L 509 89 L 495 89 L 481 89 L 467 89 L 453 89 L 439 89 L 425 89 L 411 89 L 397 89 L 383 89 L 369 89 L 355 89 L 341 89 L 327 89 L 313 89 L 299 89 L 285 89 L 271 89 L 257 89 L 243 89 L 229 89 L 215 89 L 201 89 L 187 89 L 173 89 L 159 89 L 145 89 L 131 89 L 117 89 L 103 89 L 89 89 L 75 89 L 61 89 L 47 89 L 33 89 L 33 103 L 47 103 L 61 103 L 75 103 L 89 103 L 103 103 L 117 103 L 131 103 L 145 103 L 159 103 L 173 103 L 187 103 L 201 103 L 215 103 L 229 103 L 243 103 L 257 103 L 271 103 L 285 103 L 299 103 L 313 103 L 327 103 L 341 103 L 355 103 L 369 103 L 383 103 L 397 103 L 411 103 L 425 103 L 439 103 L 453 103 L 467 103 L 481 103 L 495 103 L 509 103 L 523 103 L 537 103 L 551 103 L 565 103 L 579 103 L 593 103 L 607 103 L 621 103 L 635 103 L 649 103 L 663 103 L 677 103 L 691 103 L 705 103 L 719 103 L 733 103 L 747 103 L 761 103 L 761 117 L 747 117 L 733 117 L 719 117 L 705 117 L 691 117 L 677 117 L 663 117 L 649 117 L 635 117 L 621 117 L 607 117 L 593 117 L 579 117 L 565 117 L 551 117 L 537 117 L 523 117 L 509 117 L 495 117 L 481 117 L 467 117 L 453 117 L 439 117 L 425 117 L 411 117 L 397 117 L 383 117 L 369 117 L 355 117 L 341 117 L 327 117 L 313 117 L 299 117 L 285 117 L 271 117 L 257 117 L 243 117 L 229 117 L 215 117 L 201 117 L 187 117 L 173 117 L 159 117 L 145 117 L 131 117 L 117 117 L 103 117 L 89 117 L 75 117 L 61 117 L 47 117 L 33 117 L 33 131 L 47 131 L 61 131 L 75 131 L 89 131 L 103 131 L 117 131 L 131 131 L 145 131 L 159 131 L 173 131 L 187 131 L 201 131 L 215 131 L 229 131 L 243 131 L 257 131 L 271 131 L 285 131 L 299 131 L 313 131 L 327 131 L 341 131 L 355 131 L 369 131 L 383 131 L 397 131 L 411 131 L 425 131 L 439 131 L 453 131 L 467 131 L 481 131 L 495 131 L 509 131 L 523 131 L 537 131 L 551 131 L 565 131 L 579 131 L 593 131 L 607 131 L 621 131 L 635 131 L 649 131 L 663 131 L 677 131 L 691 131 L 705 131 L 719 131 L 733 131 L 747 131 L 761 131"
+  />
+
+</g>
+
+
+</g>
+
+</svg>
