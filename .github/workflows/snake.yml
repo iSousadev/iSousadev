@@ -21,16 +21,20 @@ jobs:
     steps:
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
+
         with:
           github_user_name: iSousadev
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%2300F5D4&color_dots=%23EBEDF0,%239BE9D8,%234FD1B5,%2300BFA6,%23008776
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300F5D4&color_dots=%23161B22,%230D6255,%23009983,%2300C9A7,%2300F5D4
+
+      - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v5
+
         with:
           target_branch: output
           build_dir: dist
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
