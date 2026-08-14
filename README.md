@@ -108,11 +108,3 @@ Sou Rodolfo Sousa da Macena, estudante de Sistemas de Informação e Desenvolved
   alt="Snake comendo minhas contribuições do GitHub"
   width="100%"
 />
-
-</div>
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/iSousadev/iSousadev/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
