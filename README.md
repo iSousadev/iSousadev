@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack Júnior`**
 
-Sou Rodolfo Sousa da Macena, estudante de Sistemas de Informação e Desenvolvedor Full Stack Júnior. Atualmente atuo como Estagiário de TI no Ministério Público Federal e também no desenvolvimento de sistemas institucionais no CEST, trabalhando com PHP, ScriptCase, MySQL, PostgreSQL e JavaScript. Além da experiência profissional, desenvolvo projetos com React, TypeScript, Python e outras tecnologias, explorando desenvolvimento web, automação e Inteligência Artificial. Gosto de construir soluções úteis, entender o problema por trás do código e evoluir constantemente como desenvolvedor.
+Me chamo Rodolfo, estudante de Sistemas de Informação e Desenvolvedor Full Stack Júnior. Atualmente atuo como Estagiário de TI no Ministério Público Federal e também no desenvolvimento de sistemas institucionais no CEST, trabalhando com PHP, ScriptCase, MySQL, PostgreSQL e JavaScript. Além da experiência profissional, desenvolvo projetos com React, TypeScript, Python e outras tecnologias, explorando desenvolvimento web, automação e Inteligência Artificial. Gosto de construir soluções úteis, entender o problema por trás do código e evoluir constantemente como desenvolvedor.
 ---
 
 ### Linguagens e Tecnologias
