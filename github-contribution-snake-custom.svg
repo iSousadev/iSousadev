@@ -60,7 +60,7 @@
   y="18"
   class="label"
 >
-  133 contribuições no último ano
+  134 contribuições no último ano
 </text>
 
 <!-- QUADRADOS -->
@@ -6940,12 +6940,40 @@
 
       <g>
         <title>
-          2026-08-17: 0 contribuições
+          2026-08-17: 1 contribuições
         </title>
 
         <rect
           x="756"
           y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-1"
+        >
+          
+        <animate
+          attributeName="opacity"
+          values="1;0;1"
+          keyTimes="0;0.14324;1"
+          calcMode="discrete"
+          dur="22s"
+          begin="-1.4s"
+          repeatCount="indefinite"
+        />
+        
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-08-18: 0 contribuições
+        </title>
+
+        <rect
+          x="756"
+          y="70"
           width="10"
           height="10"
           rx="2.5"
