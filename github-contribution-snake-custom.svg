@@ -60,7 +60,7 @@
   y="18"
   class="label"
 >
-  174 contribuições no último ano
+  121 contribuições no último ano
 </text>
 
 <!-- QUADRADOS -->
@@ -719,7 +719,7 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-4"
+          class="level-3"
         >
           
         <animate
@@ -1384,7 +1384,7 @@
 
       <g>
         <title>
-          2026-01-23: 3 contribuições
+          2026-01-23: 0 contribuições
         </title>
 
         <rect
@@ -1393,26 +1393,16 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-2"
+          class="level-0"
         >
           
-        <animate
-          attributeName="opacity"
-          values="1;0;1"
-          keyTimes="0;0.83243;1"
-          calcMode="discrete"
-          dur="22s"
-          begin="-1.4s"
-          repeatCount="indefinite"
-        />
-        
         </rect>
       </g>
     
 
       <g>
         <title>
-          2026-01-24: 4 contribuições
+          2026-01-24: 0 contribuições
         </title>
 
         <rect
@@ -1421,26 +1411,16 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-3"
+          class="level-0"
         >
           
-        <animate
-          attributeName="opacity"
-          values="1;0;1"
-          keyTimes="0;0.88378;1"
-          calcMode="discrete"
-          dur="22s"
-          begin="-1.4s"
-          repeatCount="indefinite"
-        />
-        
         </rect>
       </g>
     
 
       <g>
         <title>
-          2026-01-25: 1 contribuições
+          2026-01-25: 0 contribuições
         </title>
 
         <rect
@@ -1449,26 +1429,16 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-1"
+          class="level-0"
         >
           
-        <animate
-          attributeName="opacity"
-          values="1;0;1"
-          keyTimes="0;0.02703;1"
-          calcMode="discrete"
-          dur="22s"
-          begin="-1.4s"
-          repeatCount="indefinite"
-        />
-        
         </rect>
       </g>
     
 
       <g>
         <title>
-          2026-01-26: 2 contribuições
+          2026-01-26: 0 contribuições
         </title>
 
         <rect
@@ -1477,26 +1447,16 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-2"
+          class="level-0"
         >
           
-        <animate
-          attributeName="opacity"
-          values="1;0;1"
-          keyTimes="0;0.25676;1"
-          calcMode="discrete"
-          dur="22s"
-          begin="-1.4s"
-          repeatCount="indefinite"
-        />
-        
         </rect>
       </g>
     
 
       <g>
         <title>
-          2026-01-27: 1 contribuições
+          2026-01-27: 0 contribuições
         </title>
 
         <rect
@@ -1505,19 +1465,9 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-1"
+          class="level-0"
         >
           
-        <animate
-          attributeName="opacity"
-          values="1;0;1"
-          keyTimes="0;0.31351;1"
-          calcMode="discrete"
-          dur="22s"
-          begin="-1.4s"
-          repeatCount="indefinite"
-        />
-        
         </rect>
       </g>
     
@@ -1533,7 +1483,7 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-2"
+          class="level-3"
         >
           
         <animate
@@ -1552,7 +1502,7 @@
 
       <g>
         <title>
-          2026-01-29: 8 contribuições
+          2026-01-29: 0 contribuições
         </title>
 
         <rect
@@ -1561,19 +1511,9 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-4"
+          class="level-0"
         >
           
-        <animate
-          attributeName="opacity"
-          values="1;0;1"
-          keyTimes="0;0.60000;1"
-          calcMode="discrete"
-          dur="22s"
-          begin="-1.4s"
-          repeatCount="indefinite"
-        />
-        
         </rect>
       </g>
     
@@ -1634,7 +1574,7 @@
 
       <g>
         <title>
-          2026-02-02: 3 contribuições
+          2026-02-02: 0 contribuições
         </title>
 
         <rect
@@ -1643,26 +1583,16 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-2"
+          class="level-0"
         >
           
-        <animate
-          attributeName="opacity"
-          values="1;0;1"
-          keyTimes="0;0.25405;1"
-          calcMode="discrete"
-          dur="22s"
-          begin="-1.4s"
-          repeatCount="indefinite"
-        />
-        
         </rect>
       </g>
     
 
       <g>
         <title>
-          2026-02-03: 4 contribuições
+          2026-02-03: 0 contribuições
         </title>
 
         <rect
@@ -1671,19 +1601,9 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-3"
+          class="level-0"
         >
           
-        <animate
-          attributeName="opacity"
-          values="1;0;1"
-          keyTimes="0;0.31622;1"
-          calcMode="discrete"
-          dur="22s"
-          begin="-1.4s"
-          repeatCount="indefinite"
-        />
-        
         </rect>
       </g>
     
@@ -2000,7 +1920,7 @@
 
       <g>
         <title>
-          2026-02-19: 4 contribuições
+          2026-02-19: 2 contribuições
         </title>
 
         <rect
@@ -2009,7 +1929,7 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-3"
+          class="level-2"
         >
           
         <animate
@@ -2592,7 +2512,7 @@
 
       <g>
         <title>
-          2026-03-20: 16 contribuições
+          2026-03-20: 15 contribuições
         </title>
 
         <rect
@@ -2674,7 +2594,7 @@
 
       <g>
         <title>
-          2026-03-24: 3 contribuições
+          2026-03-24: 2 contribuições
         </title>
 
         <rect
@@ -2702,7 +2622,7 @@
 
       <g>
         <title>
-          2026-03-25: 4 contribuições
+          2026-03-25: 0 contribuições
         </title>
 
         <rect
@@ -2711,19 +2631,9 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-3"
+          class="level-0"
         >
           
-        <animate
-          attributeName="opacity"
-          values="1;0;1"
-          keyTimes="0;0.52162;1"
-          calcMode="discrete"
-          dur="22s"
-          begin="-1.4s"
-          repeatCount="indefinite"
-        />
-        
         </rect>
       </g>
     
@@ -2757,7 +2667,7 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-4"
+          class="level-3"
         >
           
         <animate
@@ -2850,7 +2760,7 @@
 
       <g>
         <title>
-          2026-03-31: 2 contribuições
+          2026-03-31: 0 contribuições
         </title>
 
         <rect
@@ -2859,19 +2769,9 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-2"
+          class="level-0"
         >
           
-        <animate
-          attributeName="opacity"
-          values="1;0;1"
-          keyTimes="0;0.33784;1"
-          calcMode="discrete"
-          dur="22s"
-          begin="-1.4s"
-          repeatCount="indefinite"
-        />
-        
         </rect>
       </g>
     
@@ -3022,7 +2922,7 @@
 
       <g>
         <title>
-          2026-04-09: 1 contribuições
+          2026-04-09: 0 contribuições
         </title>
 
         <rect
@@ -3031,19 +2931,9 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-1"
+          class="level-0"
         >
           
-        <animate
-          attributeName="opacity"
-          values="1;0;1"
-          keyTimes="0;0.62703;1"
-          calcMode="discrete"
-          dur="22s"
-          begin="-1.4s"
-          repeatCount="indefinite"
-        />
-        
         </rect>
       </g>
     
@@ -3230,7 +3120,7 @@
 
       <g>
         <title>
-          2026-04-20: 2 contribuições
+          2026-04-20: 1 contribuições
         </title>
 
         <rect
@@ -3239,7 +3129,7 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-2"
+          class="level-1"
         >
           
         <animate
@@ -4176,7 +4066,7 @@
 
       <g>
         <title>
-          2026-06-11: 3 contribuições
+          2026-06-11: 0 contribuições
         </title>
 
         <rect
@@ -4185,26 +4075,16 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-2"
+          class="level-0"
         >
           
-        <animate
-          attributeName="opacity"
-          values="1;0;1"
-          keyTimes="0;0.65135;1"
-          calcMode="discrete"
-          dur="22s"
-          begin="-1.4s"
-          repeatCount="indefinite"
-        />
-        
         </rect>
       </g>
     
 
       <g>
         <title>
-          2026-06-12: 4 contribuições
+          2026-06-12: 0 contribuições
         </title>
 
         <rect
@@ -4213,19 +4093,9 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-3"
+          class="level-0"
         >
           
-        <animate
-          attributeName="opacity"
-          values="1;0;1"
-          keyTimes="0;0.77838;1"
-          calcMode="discrete"
-          dur="22s"
-          begin="-1.4s"
-          repeatCount="indefinite"
-        />
-        
         </rect>
       </g>
     
@@ -4286,7 +4156,7 @@
 
       <g>
         <title>
-          2026-06-16: 5 contribuições
+          2026-06-16: 0 contribuições
         </title>
 
         <rect
@@ -4295,19 +4165,9 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-4"
+          class="level-0"
         >
           
-        <animate
-          attributeName="opacity"
-          values="1;0;1"
-          keyTimes="0;0.36757;1"
-          calcMode="discrete"
-          dur="22s"
-          begin="-1.4s"
-          repeatCount="indefinite"
-        />
-        
         </rect>
       </g>
     
@@ -5558,7 +5418,7 @@
 
       <g>
         <title>
-          2026-08-24: 3 contribuições
+          2026-08-24: 0 contribuições
         </title>
 
         <rect
@@ -5567,19 +5427,9 @@
           width="10"
           height="10"
           rx="2.5"
-          class="level-2"
+          class="level-0"
         >
           
-        <animate
-          attributeName="opacity"
-          values="1;0;1"
-          keyTimes="0;0.17568;1"
-          calcMode="discrete"
-          dur="22s"
-          begin="-1.4s"
-          repeatCount="indefinite"
-        />
-        
         </rect>
       </g>
     
@@ -7086,6 +6936,24 @@
         <rect
           x="756"
           y="56"
+          width="10"
+          height="10"
+          rx="2.5"
+          class="level-0"
+        >
+          
+        </rect>
+      </g>
+    
+
+      <g>
+        <title>
+          2026-11-17: 0 contribuições
+        </title>
+
+        <rect
+          x="756"
+          y="70"
           width="10"
           height="10"
           rx="2.5"
